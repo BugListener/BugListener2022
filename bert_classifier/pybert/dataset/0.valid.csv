@@ -1,0 +1,215 @@
+sentence,label
+i have added all the required jars in my eclipse project but still i am getting this error. _eou_,0
+i am keeping appium server and emulator running before i run the code but still this issue arising. _eou_,0
+my uiautomatorviewer is not getting opened despite clicking .bat file in system. _eou_,0
+"i have a problem, that elements are only located after 'waitforidletimeout' times out, which is 10 seconds. _eou_",0
+"now when i run the test on a physical device, the device log says it is still 100 instead of 100. _eou_",0
+if i click on a button yes /no the fields following the button are disabled means when i am trying to enter values in those fields i am getting the error as _code_. _eou_,0
+i tried explicit wait also even then the issue exists. _eou_,0
+team i am getting below error while running appium launch app script _code_. _eou_,0
+still getting the same error _code_. _eou_,0
+mow getting below inline error _code_. _eou_,0
+i have an issue on ios - _code_ does not work(it seems due to ios + xcode new versions). _eou_,0
+"i tried to use the ""keyboard"" like this _code_ but it does not work. _eou_",0
+"also tried this _code_ it seems that i cant uses the ""keyboard"" either. _eou_",0
+"hi i just updated to appium _version_ and suddenly the inspector on appium desktop stopped working, has anyone faced this? _eou_",0
+im not able to run my automation test on api 29 android 10. _eou_,0
+an unknown server-side error occurred while processing the command. _eou_,0
+original error: _code_.original error: _code_. _eou_,0
+original error: _code_. _eou_,0
+app opens but test does't run. _eou_,0
+we have a hybrid app with webview not detected in ios13 devices alone. _eou_,0
+rest of below versions seems good. _eou_,0
+"and for some reason, i cannot scroll the source container vertically and as a result, i cannot see deep nested elements. _eou_",0
+"xcode successfully compile and run integrationapp and webdriveragentrunner, but when i type _code_ test fails with message: _code_  _eou_",0
+app crashes on launch. _eou_,0
+it works fine in ios _version_ _eou_,0
+and its always showing connection refused error (snapshot attached). _eou_,0
+i have checked that no other session for appium is running on my machine also appium can run fine when i start session from terminal via command below _code_. _eou_,0
+"appium desktop is also working fine, but need to start appium service programatically as my framework needs it. _eou_",0
+to debug i have tried to run on different ports and different ips also but its still not working. _eou_,0
+connection refused error is coming everytime. _eou_,0
+"i can build and run just fine from xcode, i can also manually run _code_ test without any problem in _code_. _eou_",0
+"but when the tests run i get signing for ""webdriveragentrunner"" requires a development team. _eou_",0
+i am getting this error _code_. _eou_,0
+i did not see this error in _version_ _eou_,0
+"but when it launches the ios app,for 4 5 minutes,it continuously launches tha app and finally finishes the execution without executing a single step with error _code_. _eou_",0
+i am unable to clear the text field value in ios realdevices. _eou_,0
+not getting any issues while use the _code_ command but the value also no cleared. _eou_,0
+does anyone have encountered this error while running tests: _code_. _eou_,0
+this always happens to me when tests are finished executing. _eou_,0
+i am facing the below error _code_ while executing testcases on browserstack with webdriverio : i guess its related to appium. _eou_,0
+this is occuring when i take _code_ by webdriverio. _eou_,0
+_code_ does not work. _eou_,0
+"because in cases with letters - everything is ok, the element is searched for: _code_ works. _eou_",0
+"i am able to launch the mobile application in ios 13 using ""appium _version_-rc"" and ""xcode _version_"" but i am unable to swipe-up the page in the application using appium. _eou_",0
+swipping script is working for all ios version below ios 13 (ie. until ios _version_). _eou_,0
+"but we found, even we do not changing to webview context, we can still get the webview elements and operate the elements in the native way (appium inspector also works fine in native way). _eou_",0
+"i have a following problem: android programmers created gridview in some point in application, this grid is automatically filled with items downloaded from backend via endpoint, depends on language. _eou_",0
+so it almost never be the same if i change language. _eou_,0
+with that i am unable to find an element with xpath. _eou_,0
+"hi anyone can help me to resolve this issue, I am facing the issue while creating session using _code_, error: _code_. _eou_",0
+yes adb can detect my device. _eou_,0
+that issue appearing when i use _code_; for other drivers this issue are not appearing. _eou_,0
+sendkeys on ios element of type _code_ is not working properly for me. _eou_,0
+it starts with typing characters 1 by 1(previously used to be grouped and fast) and then stop with nosuchsessionexcpetion. _eou_,0
+the app re-installs everytime. _eou_,0
+"yes, the app reinstalls. _eou_",0
+"the issue was, even after providing the values in the text box, the save button was not getting enabled. _eou_",0
+"after long research i realized my version was recently updated to _version_,so i reverted back to _version_ and it worked like a charm. _eou_",0
+"before xcode 11 it worked, but for now it doesn't. _eou_",0
+it launches and crashes several times before throwing an error. _eou_,0
+the last successful launch was with version 75. _eou_,0
+has anyone run into any issues with the ios simulator timing out on a fresh test run? _eou_,0
+and about 10% of the time we see a tcp timeout error. _eou_,0
+it typically resolves when we retry the test run _eou_,0
+this is the error we see _code_. _eou_,0
+something is going on with the appium.app _version_ program (on mac). _eou_,0
+"the application will not save the changes I have applied even though i clicked the ""save"" button many times. _eou_",0
+"also, you can only edit the desired capabilities under the json view and not the user-friendly text fields in the application. _eou_",0
+"even then, you have to do very specific button presses to get things to work right. _eou_",0
+issue: I am able to find and clink on a toggle button cell id when the button is off. _eou_,0
+"but when it gets on, driver is unable to find the id, xpath tried lot of things to make it work, but still this is not working. _eou_",0
+"once my application launches, in the first screen i am able to identify controls and enter text to it and able to go to second screen. _eou_",0
+in second screen i am not able to identify controls. _eou_,0
+"i see that first screen name is different from the second screen, but both screens are from the same app capability. _eou_",0
+"work around: when i initialize windowsdriver object again _code_ in the second screen, then i am able to identify second screen elements. _eou_",0
+unfortunately appium stops the accessibility service when it starts. _eou_,0
+"when i use this capability: _code_ , but server gives me this error: _code_ . _eou_",0
+"if i use the same capabilities with inspector session, the app is launched correctly. _eou_",0
+seems like safari ios tests are acting weird. _eou_,0
+"i am running through one issue, when ever i try to run all the scripts together, some of the test cases are randomly failing after the first successful script. _eou_",0
+"this is only happening on android, ios all the scripts are passing successfully. _eou_",0
+"if i run all the scripts separately on android, t all passes successfully. _eou_",0
+"i have a strange problem: i copy app.apk to folder for appium, start tests (pytest, uiautomator2) and when appium try install apk to the device (opens window for allow to install app) file app.apk in folder for appium has changes. _eou_",0
+"version remains the same, but app has less size and works incorrect. _eou_",0
+if i install original file app with adb or with commented out 'automationname' desired cap - its ok and works correct. _eou_,0
+"i am getting the ""enqueue failure:"" while executing my appium script and it took much time to launch. _eou_",0
+has anyone come across this issue before: selenium error: _code_. _eou_,0
+original error: _code_. _eou_,0
+"but there does not seem to be anything wrong with the app, as others are able to run the same app through appium _eou_",0
+"when trying to edit or save desired capabilities, _eou_",1
+by that time if i trying to pass arguments into the app.component.html as camelcase _eou_,1
+when I am trying to bind a port. _eou_,1
+when trying to run the emnist example with macos catalina & java 8. _eou_,1
+hi i am using appium with java to automate a native mobile app. _eou_,1
+I am trying to use appium in visual studio for mac. _eou_,1
+i just want to delete the text in a textfield and enter a new text (on ios). _eou_,1
+I am encountering some trouble to run web driver agent runner. _eou_,1
+i tried to run my script in ios_version_ simulator. _eou_,1
+i have been trying to run appium programatically. _eou_,1
+do i have to do some magic for signing to work in appium _version_ (installed via npm) for ios real device? _eou_,1
+i am trying to execute my ios feature file in saucelabs containing a scenario of 2 steps. _eou_,1
+but i am trying to make my tests generic. _eou_,1
+I am experiencing some problem with setting value into the picker wheel after updating to xcode11. _eou_,1
+I am trying to sendkeys in _code_ element. _eou_,1
+can someone assist with how to launch chrome browser on device during automation? _eou_,1
+i have jdk version _version_  _eou_,2
+"i am using appium _version_, and when i create a new session, in the inspector i go to actions and update this server setting to _code_. _eou_",2
+below is the script _code_. _eou_,2
+I am running appium desktop _version_ _eou_,2
+"my config is macos catalina _version_, xcode _version_ and ios _version_ (in my previous issue system was outdated ). _eou_",2
+i have the latest appium version. _eou_,2
+details: macos:catalina and appium version:_version_ . _eou_,2
+i have _code_ in _code_ and as properties in capabilities _eou_,2
+"I am using appium _version_, node _version_, npm _version_ _eou_",2
+"currently, we are working on android. _eou_",2
+hi am currently using appium version _version_ and andriod devices version _version_ . _eou_,2
+config: _code_. _eou_,2
+it is working for you guys on xcode_version_ and appium _version_ _eou_,2
+i am facing issue while running tests in ios _version_ - with appium _version_ and xcode _version_ _eou_,2
+we are running on mojave. _eou_,2
+"using: appium version _version_, platform: ios, ios: _version_, simulator - ipad _version_ inch. _eou_",2
+my method and xpath: _code_. _eou_,2
+windows application driver version: _version_ _eou_,2
+i am launching my application via app capabilities. _eou_,2
+hi  have a problem with ios 13 device. _eou_,3
+does anyone faced any issues running appium with ios _version_? _eou_,3
+could anyone please help me on appium sessionnotcreatedexception ? _eou_,3
+how to solve this ? _eou_,3
+thank you in advance. _eou_,3
+"i would be grateful for some advice or literature how to troubleshoot further, or if there is something i can hack in the uiautormator2 to fix this. _eou_",3
+in that i am facing an issue. _eou_,3
+can anyone please help me on this issue. _eou_,3
+please can someone help me. _eou_,3
+"thank you for the help , i have added file to the location. _eou_",3
+can you help me with this. _eou_,3
+any one faced this issue? _eou_,3
+plz reply im stuck in this for a long time. _eou_,3
+is anyone else experiencing this? _eou_,3
+any help on this? _eou_,3
+please help if you have faced such issue. _eou_,3
+select a development team in the signing & capabilities editor. _eou_,3
+any ideas what i am missing? _eou_,3
+i checked with appium and t are saying it is an apple issue. _eou_,3
+please help me in resolving the issue. _eou_,3
+could any one please help. _eou_,3
+hi - thanks for the help. _eou_,3
+thanks for the help! _eou_,3
+"please tell me, in the latest version of the appium it is impossible to find an element (inside the element - numbers) using predicatestring. _eou_",3
+need to somehow look differently now? _eou_,3
+anyone has any idea why it is happening. _eou_,3
+we are automating a hybrid app with appium. _eou_,3
+"according to appium's doc, we need set the context to webview's context before accessing webview elements. _eou_",3
+"so wants to know, why it works? _eou_",3
+does appium already support hybrid app without switching contexts? _eou_,3
+we have not started on ios so do not know if this way still works on ios. _eou_,3
+"we are afraid, someday this way does not work and we have to update our codes. _eou_",3
+want to get some confirmation about this. _eou_,3
+is there any way to identify exact items in gridview? _eou_,3
+that is dynamic and can change? _eou_,3
+i will appreciate any help! _eou_,3
+any one can help me on this? _eou_,3
+note : _code_ : it works fine? _eou_,3
+have posted my comment here as well _url_. _eou_,3
+"just to add on my comments above, i did not see this thread abt sendkeys issues. _eou_",3
+can i post question on windows application automation here ? _eou_,3
+could anyone provide some help on this. _eou_,3
+"but, i do not think this is the right approach. _eou_",3
+i am stuck with a problem with appium. _eou_,3
+i saw a ticket on the same _issue_. _eou_,3
+is there any solution / fix for this? _eou_,3
+anyone knows what could cause this error when i try this on visual studio? _eou_,3
+not sure if it might be something up with wda _eou_,3
+does anyone went through the same issue ever? _eou_,3
+please anyone here help who has experience with webdriver.io. _eou_,3
+what can it be cause of incorrect work? _eou_,3
+what to do for resolve it? _eou_,3
+please let us know if anyone have solution for it and i am executing scripts on react native app. _eou_,3
+can you kindly help me out in how to resolve the issue please? _eou_,3
+any help from anyone will be gracefully accepted. _eou_,3
+could you please help to fix this? _eou_,3
+please some one help to fix this issue. _eou_,3
+can someone help to fix _code_ error? _eou_,3
+any help would be greatly appreicated! _eou_,3
+i see something wrong with xcode! _eou_,3
+unistalled and installed the xcode. _eou_,3
+wierd issue again with the versions i guess? _eou_,3
+"man, this ios w/ appium is killing me. _eou_",3
+: is there a link that talks about it? _eou_,3
+i have heard people using xcode 10 with no issue but I am not sure why both machines i have are hitting the same issue. _eou_,3
+I am starting to think this is a pagefactory bug _eou_,3
+looks like the problem is I am using vs. ..... man this is such a pain in the ass _eou_,3
+do you think i need to specify the webkitdebugproxyport for each device when i start them _eou_,3
+"thanks, that definitely did the trick. _eou_",3
+"just fyi for the people who wants to do parallel testing on ios devices, just assign the web kit debug proxy port to capabilities _eou_",3
+any idea why this is happening? _eou_,3
+alright ill try that. _eou_,3
+anybody seen this before? _eou_,3
+is karma behaving weirdly for others as well in angular 11? _eou_,3
+"maybe that is not a new thing in angular 11, but i cannot understand why more people are not annoyed by this. _eou_",3
+so is there any way to fix this? _eou_,3
+because i got by googling that on windows if safari installed then angular app will not work. _eou_,3
+and I am having only one issue. _eou_,3
+the upgrade guide said there might be an issue with argument types being changed for async validators but all I am using are the built in validators like max length and required and pattern (to which I am just passing a string). _eou_,3
+has anyone had similar issue or know what is happening here? _eou_,3
+"i submitted an issue _issue_, but nebular appears to not really respond to issues. _eou_",3
+their issues page goes back months with many not even having any reply at all _eou_,3
+i found the angular way: _url_. _eou_,3
+guys i have this issue - _url_. _eou_,3
+why css is not being applied ? _eou_,3
+"i managed to solve this by adding this _code_ to styles.css manually - i thought angular is doing to automatically , but its not _eou_",3
+i am new to this platform. _eou_,3
+did anyone encounter this error before? _eou_,3
+"i posted in stackoverflow too, and i see comments like there might be wrong import and i checked for those wrong import and could not find any though any help appreciated! _eou_",3
+"i have 3 routes, root which renders the home component, _code_ which renders the dashboard component and _code_ which renders the items component. _eou_",3

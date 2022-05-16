@@ -1,0 +1,216 @@
+sentence,label
+i used snapshots up until 2 weeks ago with no problem. _eou_,0
+i used _code_ to include the locations of new files and then got error: _code_. _eou_,0
+"when i run a junit test, it works perfectly! _eou_",0
+"however, when i try to run this as an eclipse application, it throws _code_. _eou_",0
+"now, this also means it cannot load the nd4j backend. _eou_",0
+i took a quick look at the packages and i saw that org.nd4j.native-api and org.nd4j.native.linux-x86_64 (the platform that i am using for nd4j backend) share the same package (org.nd4j.nativeblas). _eou_,0
+I am getting the below exception while running the spark submit: _url_. _eou_,0
+i tried both _version_-beta3 & _version_-beta4 but i still get the same exception _eou_,0
+i get an ndj4j backend error when i try to run _code_ where _code_ is my _code_ class. _eou_,0
+i experience initialization error when loading nd4j. _eou_,0
+"when running the example, i get the following errors : _url_ . _eou_",0
+"my app works well using a gpu (sys memory 8g , gtx1080, gpu memory 8g), but using 6 gpus(rtx2070 8g), exceptions were thrown: _issue_. _eou_",0
+"why is it okay to infer with one gpu, but when using more than one gpu, exceptions will be thrown due to insufficient gpu memory? _eou_",0
+when i run _code_ i got the following errors: _url_ _code_ _eou_,0
+i can run the examples with maven. _eou_,0
+"but when i try to run a javafx application for gui use, then it fail. _eou_",0
+and getting _code_. _eou_,0
+running tomcat 8 with java _version_ beta4 seems to have changed dependencies and I am getting this on a large number of dependent jars. _eou_,0
+_code_ throws a segmentation fault on my machine: _url_ _eou_,0
+core dump itself: _url_. _eou_,0
+_url_ setting to datatype.float is ok but leads to nan score. _eou_,0
+but it is giving me a nullpointerexception in function mapoptimizer in file kerasoptimizerutils.java. _eou_,0
+"this is due to the fact that the variable optimizerparameter is holding the learning rate parameter with key ""learning_rate"" but the code is looking it up with key ""lr"". _eou_",0
+"I am getting: ""no tensorflow op found for batchmatmulv2 possibly missing operation class?"" _eou_",0
+running into warn _code_ when trying to deploy. _eou_,0
+I am encountering a weird behaviour: the gpu vram usage increases over time when adding an evalutivelistener to my nn. _eou_,0
+"basically, i noticed that each time an evaluation is performed, the basic vram usage is increased (i'm using the uiserver as well as nvidia-smi to check that this is true). _eou_",0
+but it failed with unsupportedoperationexeption. _eou_,0
+this is gist of the error message _url_. _eou_,0
+"ok i found learninsequence(sequence, nextrandom, alpha, batchsequences) in sequencevectors class is not supported _url_ _url_. _eou_",0
+i am getting this error _code_. _eou_,0
+I have been struggling with a noclassdeffounderror on iupdater for a while now. _eou_,0
+this is the error i get _code_. _eou_,0
+output from summry: _code_. _eou_,0
+"it is ok when i feed 3 dimensional array and call output, but when i feed [1,6] array, i am getting _code_. _eou_",0
+"I am running into oom issues, crash dump: _code_. _eou_",0
+"what is weird is that the xmx is 2gb, javacpp current bytes is <8gb, but javacpp current physical is a whopping 37gb. _eou_",0
+"i had to add the redist jars as well, see _url_ (though i was getting a different exception than you are seeing). _eou_",0
+i traced the exception and thought it may relate to use of some android sdk which is required by deeplearning4j but seems not able to work without android device. _eou_,0
+when i try to run _code_ i got the following error: _code_ _eou_,0
+now i have an error going like this : _code_. _eou_,0
+i am building an assembly-jar but at the moment my spark-job throws the following exception when creating an indarray _code_. _eou_,0
+"_code_ has an index signature, if i delete the first overload ofmutations, it compiles _euo_",0
+not a fun experience : my tsc takes 7 seconds to compile so it takes me ages to try something that is not going to work. _euo_,0
+"expected this to work, but nope :  _code_ _euo_",0
+tsconfig paths - having an issue with using similar names. _euo_,0
+there is a mistake in the types for three.js _euo_,0
+_code_ is this a known ts bug? _euo_,0
+"_code_ does resolve it, but does not seem right that it should break on false. _euo_",0
+"values( _code_ ) not being a type error, although now that always returns an empty array because all the values in _code_ are now inside the map and need to be accessed in a different way. _euo_",0
+"oh, here we go, this one is terser: _code_. _euo_",0
+but when i try and access it on the exposed port on os x - i get connection refused. _euo_,0
+"what confuses me is that, although the first assignment is not allowed, the second two assignments, which look to be equivalent, are allowed. _euo_",0
+i tested this on _url_ as well as _version_ so it should be recent. _euo_,0
+but that did not work since i was only able to run arm on cloud and it is too slow for my needs. _euo_,0
+"with the declare var lptag; when i console.log lptag as i import it, it just seems to be an empty object. _euo_",0
+i can see element on screen of device but when I am making getpagesource - cannot find them _euo_,0
+does anyone have idea on why this code does not compile undernoimplicitany _code_ ? _euo_,0
+i guess i do not get the reference to the window.lp tag with that? _euo_,0
+also with that i get: _code_ . _euo_,0
+i tried this: _code_ but then the lptag is just an empty object and not the one that is attached to window _euo_,0
+_code_ issue 1: cannot make reference to atcore within components core. _euo_,0
+issue 2: would have the word atcore in both confuse the compiler? _euo_,0
+i see that but i am looking in the repo on github and package.json isn__ there _euo_,0
+"i am using the following tsconfig; _code_ in my .ts files, where ever i have a comment on the last line, the js output is broken. _euo_",0
+"another bug that i did not file since it imo falls under similar domain, is the fact that all webcrypto.subtle function return a promiselike instead of a promise, which makes using catch impossible. _euo_",0
+one bug i dislike is when modifying a prop: _code_ to prop: _code_ which results in occurrences of object. _euo_,0
+why does _url_ compile with es5 target and does not compile with es2015/es2016? _euo_,0
+"specifically, the following code will not compile, even though to me it looks like it should: _code_. _euo_",0
+"specifically it seems that return types for type intersection for two interfaces takes the type intersection of the return values, but the type intersection of an interface and a class takes the type union of the return values. _euo_",0
+im struggling with an interface definition. _euo_,0
+_code_ should be the same or? _euo_,0
+webstorm does not recognize the first one... _euo_,0
+but it looks like the gesture is not implemented/supported _code_ . _euo_,0
+"both works, but webstorm (latest _version_) only recognizes x as typeof t for the doit2...so _code_ _euo_",0
+more than _issue_ ; the symptoms persist long after state is restored. _euo_,0
+"refresh, refresh, refresh and so on and the mismatch persists. _euo_",0
+and still did not help.. _euo_,0
+"if i put that same code in my component the variable it is trying to access is undefined, I have tried putting it in a ngzone.run and doing it while after the app starts up but it is always undefined _code_  _code_. _euo_",0
+until today i never had a private conversation apparently mixed with public content. _euo_,0
+we have to go there and manually update those fields to trigger the button to become active. _euo_,0
+afair this incident occurred after firefox automatically restored tabs. _euo_,0
+but now i keep _code_ errors even if i have import _code_ set. _euo_,0
+the icon starts but i cannot access the app i only have the icon which when right click there is only exit gitter option. _euo_,0
+btw i run archlinux is there something that need to be installed for development version to actually run or all can be installed via npm _euo_,0
+yes i see three webhooks and t all say last delivery was unsuccessful. _euo_,0
+but nothing ever showed up in gitter. _eou_,0
+"it gives me ""this address is not available.it already exists on gitter "". _eou_",0
+and see even for that message it is turned up as if i wrote it: _url_. _euo_,0
+"no errors in the console, just mixed content warnings from embedding images from imgur _euo_",0
+actually in general i am trying to get some redis-sentinel setup working with docker/docker-compose. _eou_,1
+i am having an issue pushing the image to a private register. _eou_,1
+"im trying to deploy an app over a docker swarm cluster, currently having an issue. _eou_",1
+i try to build a own computation graph for the bertiterator. _eou_,1
+i wrote this code to train cnn model on spark using dl4j _version_-beta4. _eou_,1
+"i am trying to run nlp examples, word2vecrawtextexample and word2vecuptrainingexample, without any codechanges. _eou_",1
+how did u get it to run? _eou_,1
+"i mean, i have multiple projects inside a same solution (a .net core application) and each project has its own docker-compose file_, i want to have a solution level docker-compose file which describe all that services relationship_? _euo_",1
+is there a way to update this without having to create a new gitter from scratch? _euo_,1
+I am trying to import a tensorflow .pb model. _eou_,1
+I am trying to fit a neural network using spark and to debug my training. _eou_,1
+anyone has tried to compile dl4j with graalvm/native-image? _eou_,1
+hope someone could help me with this: i am trying to add some new data to the training dataset . _eou_,1
+I am trying to run a dl4j example on powerpc. _eou_,1
+"how to release a andarray gpu memeory, let it only reside in host memory? _eou_",1
+i am trying to upgrade from beta2 to beta4. _eou_,1
+"it is on mac os, docker version _version_, build 6247962. _eou_",2
+using 2 cpu's 4 gb memory and 1 gb swap memory _eou_,2
+i have an ubuntu and win10 machine. _eou_,2
+i am running docker on macosx. _eou_,2
+i have version: _version_-ce installed on a arm box. _eou_,2
+this is how i preparing my training data: _code_. _eou_,2
+this is my network config: _code_. _eou_,2
+my net config is: _code_. _eou_,2
+"dl4j version is _version_-beta3, and my code is like: _code_. _eou_",2
+I have just migrated my simple project from dp4j-_version_ to dp4j-_version_-beta5. _eou_,2
+my env: _code_ java version: _version_ _eou_,2
+just have installed deeplearning4j. _eou_,2
+"i am using win10; java version ""11"". _eou_",2
+i have just migrated from beta2 to beta5. _eou_,2
+all tests done on osx :_code_. _eou_,2
+I have attached a statslistener to my model to send training stats to the ui. _eou_,2
+this is my code : _code_. _eou_,2
+"with intellij, beta-_version_, cuda _version_ , cudnn _version_ _eou_",2
+my code is below: _code_. _eou_,2
+not sure wtf that is meant to be _euo_,3
+does anyone know where the version number for types pulled usingattypes/library can be found online? _euo_,3
+"that is  not what i's looking for, though _euo_",3
+"h, that is a big help! thanks. _euo_",3
+i have an issue _issue_ that have not been triaged for 9 days now while later issues I have opened are already resolved.is it possible it got missed? _euo_,3
+i have some annoying bugs related to typescript's typing of webcrypto functions. _euo_,3
+i tried many times to correct them myself and i do not think i have the correct mental model of what needs to happen. _euo_,3
+"when i filed a bug, there was a generic ""thank you, plz contribute"" response - I am looking for help on the matter. _euo_",3
+bug in question: _issue_. _euo_,3
+"i remember reading somewhere that modifying the lib.d.ts file is a big no-no and requires going through some hoops, which frankly sound over-complex and unintuitivly include several repos _euo_",3
+i would really like to get those bugs fixed and would love to work with someone so i may learn how to contribute future bug fixes / improvements to the type system _euo_,3
+the code silently becomes a bug. _euo_,3
+"or, maybe just the following is simpler and better! _euo_",3
+you could help me figure out my problem? _euo_,3
+"i think I have found a bug in the type checker , would you mind checking this out? _euo_",3
+"maybe I am missing something, or is it a bug?? _euo_",3
+i think I have found a bug in the typescript type system but i do not know enough to be sure. _euo_,3
+could i please have a hand determining if it is a bug (or if i am just confused) and perhaps finding a workaround? _euo_,3
+generics is a good idea ? _euo_,3
+I will give that a try for my actual use case. _euo_,3
+"in this case, though, I am not sure if i should report it as a bug. _euo_",3
+I will test out that theory. _euo_,3
+generics is a good idea _? _euo_,3
+it is stranger than that: apparently type intersection is not commutative. _euo_,3
+should not x and y be the exact same? _euo_,3
+"it looks like this is intended behaviour _url_, though i am not sure why. _euo_",3
+"sorry to have bothered you all, and thank you for the suggestions. _euo_",3
+ye..also struggling with gitter ...sorry :d _euo_,3
+i wonder if it is a webstorm bug or a undiscovered typescript bug :d _euo_,3
+"I have linked in the library that adds itself to window and am providing an index.d.ts, so that when i import it, then the script gets loaded.. _euo_",3
+does anyone use gitter in more than tab with firefox? _euo_,3
+"no, there is safe mode above in _url_ and in the screen recording that is mentioned there. _euo_",3
+effects can include apparent search failures e.g. _euo_,3
+as shown at _issue_ _euo_,3
+"_url_ if firefox behaviour is proper (andglancingat the shot of google chrome in _issue_ , iassumethat itisproper), then maybe someone will have the rather thankless task of tooth-combing for areas where caching should/must be disallowed. _euo_",3
+and on that potentially depressing note (sorry!) _euo_,3
+"that example of anapparent search failure is in fact, on very close inspection, a mismatch between the _url_/lobbyand the room/lumina_?both the title bar and the tab are strong indications that the writer is in one room when in fact, the writing is elsewhere. _euo_",3
+"and when in the lobby at an?at=_url_, both the title bar and the tab are diminished to a generic 'gitter'; a more distinctive title e.g. _euo_",3
+trueos lobby' would be appropriate. _euo_,3
+yep - i set it up _euo_,3
+_url_ _euo_,3
+"network issues, it seems specific to that room. _euo_",3
+my github repo moved to a new owner. _euo_,3
+there campers..... i think there is a bug blocking my progress. _euo_,3
+i have not made it happen today yet...just something that i have been seeing over the past week or so _euo_,3
+"word, the fact that you just changed to yellow means it is not happening right now. _euo_",3
+ill let you know if i see it again just wanted to you fill you in _euo_,3
+i submitted a bug report as issue in gitlab but that merge request 215 is making gitter on windows have some bugs. _euo_,3
+_url_ _euo_,3
+btw i also removed config files from earlier installation on my system. _euo_,3
+_code_ _euo_,3
+previously run the npm install and created oauth.json according to instructions generated oauth on github and replaced stuff that should be replaced. _euo_,3
+like os linux and clientid and secretkey. _euo_,3
+just popping into make a couple feature. _euo_,3
+recommendations and to ask about a potential bug: it'd be great for there to be a way to upload an image when you are in fullscreen mode on mac. _euo_,3
+"right now, you have to exit fullscreen mode to drag-and-drop. _euo_",3
+there should be a photo icon or something above the markdown symbol on the right of the text entry that opens a file selection dialog. _euo_,3
+also: it'd be great if images opened in a lightbox instead of in a browser. _euo_,3
+why direct the user out of the app to look at content shared within the app? _euo_,3
+you do not do it for issues. _euo_,3
+is there a way to fix that myself or is that an issue with the integration on gitter's end? _euo_,3
+it only lists one integration _euo_,3
+i have gitter under services as well _euo_,3
+where should i report that issue? _euo_,3
+"i analyzed already what is wrong in the irc message, it is a protocol implementation bug _euo_",3
+i cannot find any setting that could fix that. _euo_,3
+"is there anything like it or it is a known bug (if yes, anyone knows the issue that is tracking this bug)? _euo_",3
+wow...this is a 3 years old issue...so i guess it is going to take a long time. _euo_,3
+thanks for quick anwsers. _euo_,3
+will be waiting impatiently. _euo_,3
+i do not see any network errors. _euo_,3
+k. i will copy everything as har when it occurs again but cannot guarantee on shorter log :p. enabled timestamps. _euo_,3
+is this the right place to discuss something like that? _euo_,3
+or should i just open an issue :/ _euo_,3
+"as you might be able to see it says i have not read your message and now it says i have, but it is still green _url_ _euo_",3
+wondering if somehow the javascript to mark the message as read is not executing for some reason _euo_,3
+"not canary, dev. _euo_",3
+"if it is not a bug, it will be cool to also have a visual button for it, because when there is a bunch of media loaded, the page get's a bit laggy. _euo_",3
+and if the collapse command does not allow to close them all.. _euo_,3
+it takes some time to do it manually :s ) _euo_,3
+_url_ mixture of public and private content. _euo_,3
+"i think, i have something important to say. _euo_",3
+"until there, i will be using docker on a virtual machine, because i cant trust this software anymore. _euo_",3
+"but an exec id is not an image, container or task. _euo_",3
+"so docker inspect, as far as i can tell, does not support quering exec ids _euo_",3
+"i think you are correct, inspect is mostly for containers and images _euo_",3
+"hm, I am having an odd issue. _euo_",3
+d: it is not the host ip _euo_,3
+are you doing the linking at runtime via docker run --link ? _euo_,3
+might be worth posting your full command and any dockerfile/docker-composer.yml etc. _euo_,3

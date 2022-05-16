@@ -1,0 +1,217 @@
+sentence,label
+"however, we populate these select controls with valid values on the nginit event. _euo_",0
+when the browser side angular kicks in. _euo_,0
+it starts with a transition animation. _euo_,0
+this look strange because universal already rendered the view. _euo_,0
+"in _version_ works fine, but in _version_  i cannot start server _euo_",0
+it still failing in main.ts . _euo_,0
+"yes, from _version_ to _version_, but i switched back and same result _euo_",0
+"but it was working with _version_, why is that? _euo_",0
+therefore angular cant upgrade without a breaking change. _euo_,0
+switched to typescript _version_ - 183 errors _euo_,0
+can anyone explain why _code_ alone results in a blank page but _url_ results in the router working properly? _euo_,0
+"i am not sure if this is a system.js bug, jspm bug, or a bug in my brain, but all is working great when i was on commonjs in my jspm.config.js, not i am trying to make a switch over to system so i can use hot-reload, but everything blows up. _euo_",0
+this is the change i did:_code_. _euo_,0
+and it all exploded with _url_. _euo_,0
+I am noticing something weird where a bug will occur in rendering (usually in the ngondestroy method) that for the life of me makes no sense (unless ngondestroy is firing before ngoninit). _euo_,0
+and when i restart the node instance running ssr the error miraculously stops happening _euo_,0
+"but angular deletes all script tags inside templates, also those with text/plain. _euo_",0
+"when i want to scroll down on a page, right after switching to it, the page automaticly scrolls up. _euo_",0
+so you cannot scroll down for like ~5 seconds (you see it flashing &down& but it pops right to the top). _euo_,0
+after the 5 seconds scrolling works fine again. _euo_,0
+"ye i find 100 of scrollheight or scrolltop, 100 times . _euo_",0
+somewhere in your code or a library you are using the height or scroll of the element in question is being changed. _euo_,0
+problem is that scroll up is always happening on page switch ugh. _euo_,0
+"ye, weird thing is the more you page switch the more it happends . _euo_",0
+"my test passes successfully the first time i run it, but each time after that it fails with the error: error: expected one matching request for criteria ""match method: get, _url_: (any)"", found none.. why would the exact same test succeed once, then fail the next time? _euo_",0
+I have encountered a weird bug when using atoptional() and observables. _euo_,0
+I have made a plunkr here: _url_ the request fails and the console prints an error 'observable_1 is not defined'. _euo_,0
+if you remove the atoptional() then it works just fine. _euo_,0
+the issue was *ngfor = __et dropdown of menu . _euo_,0
+dropdown clashed with a variable name in the ngbdropdown package. _euo_,0
+"i also keep getting the message _code_  did not match any elements, but I have removed the bootstrap array from _code_. _eou_",0
+an unhandled exception occurred: _code_. _eou_,0
+"i am using angular v12, and i suddenly ran into an error while trying to run my unit test:error:  _code_; i believe this has something to do with the tsconfig.json specifications. _eou_",0
+i tried  _code_ but still the same error. _eou_,0
+having an issue in a reactive form with it not disabling on startup _code_ . _eou_,0
+i check the breakpoint and it shows the formcontrol status is disabled but it still is enabled when you click on it. _eou_,0
+got an issue with angular route using named outlet. _eou_,0
+"it seems to work just great with unnamed _code_  but soon as i name it, it gives me _code_ . _eou_",0
+", after upgrading from angular 9 to 11 I am getting this error when trying to _code_  _code_ . _eou_",0
+"hi , i have proplem with with ngfor, the angular does not accept this _code_ . _eou_",0
+the error says this _code_. _eou_,0
+"but i have initialize the posts$ to be an object => posts$:object , in my app.component.ts file _eou_",0
+"I am getting ""an unhandled exception occurred: call retries were exceeded"" on ng build in angular 9 after updating from 8. _eou_",0
+"i also tried increasing the memory, but that did not work even when drastically increasing the number. _eou_",0
+yet ng-packagr still compiles to esm2015. _eou_,0
+and angular-cli still compiles npm packages to esm2015. _eou_,0
+whenever i run an e2e test (depending on protractor) i get a slew of console errors : _code_. _eou_,0
+i installed specific version (_version_) and then when i run ng serve it throws me this error _code_. _eou_,0
+when i run ng version it shows the version i installed for cli but not for angular itself. _eou_,0
+even though i install the required version it still detects the higher version and throws the same error. _eou_,0
+"sometimes when i make a code change, and angular rebuilds and serves the app, my windows 10 laptop goes into energy spare mode._eou_",0
+"seemingly random, happens often and is really making me angry. _eou_",0
+windows system loig says: _code_ . _eou_,0
+"in a new angular project, adding a simple my-lib library, source maps work as expected, but when i change the inline template of any component to templateurl, sourcemaps are gone. _eou_",0
+error meesage below: _code_ . _eou_,0
+my api is returning the correct data but the .get response has almost all of the properties set to null. _eou_,0
+when i say the api is returning the correct response i mean i look a the network tab in the chrome dev tools and the response there is correct (i.e. _eou_,0
+"the properties have the expected values) but when i look at the response in the subscribed observable (by putting a breakpoint in the code in the dev tools), most of the properties are null. _eou_",0
+the api is returning a 200 response so no error handing interceptor is getting in the way. _eou_,0
+i created a test api using expressjs running locally and it returns the static json that the real api would return and the app works fine. _eou_,0
+but im having trouble getting it setup. _euo_,0
+i am getting this error _code_ . _eou_,0
+_code_ will it give me above error _code_? _eou_,0
+_code_ that inherits its  decorator but does not provide one itself _eou_,0
+"after updating all modules, build does not work anymore _code_. _eou_",0
+the problem seems to be in importing node.js module into project (crypto-js). _eou_,0
+"while building this library, somehow image assets are not getting included in the final build. _eou_",0
+here is problem _code_. _eou_,0
+", why am unable to use the angular material? _eou_",0
+"if i imports any material module, it gives errors everywhere on my code once i declare any of its components. _eou_",0
+"it seems that docker-compose is completely broken on arch linux, even docker-compose version cannot print version _code_ . _eou_",0
+"however, it works when sudo docker-compose. _eou_",0
+service dns resolves to wrong container ip address. _eou_,0
+swarm overlay ingress network dnat to wrong ip address. _eou_,0
+it seems as though my docker swarm service that I am running is hitting my dns server wayy too hard and causing timeouts/failures. _eou_,0
+"every once and a while, i get a hostname resolving error _code_. _eou_",0
+"it seems to only happen on a single node, although it is intermittent and will sometimes cause other nodes problems. _eou_",0
+"if i click ""hide this room"" and then manually search for the room then it shows me the option to join the room. _eou_",0
+"but i did not click ""leave this room"". _eou_",0
+_url_ too show one less room. _eou_,0
+looks like hiding the room is exiting the user from the room. _eou_,0
+"after hiding the room and searching for it (since no way to see list of hidden rooms) the room shows ""join"" button and even shows the joining notice after clicking on that button. _eou_",0
+"every time i click 'new community' a view for create community pops up, crashes immediately, and then dumps me here... _eou_",0
+"however, going to that address only brings me to _url_ . _eou_",0
+I am getting a 404 on that page. _eou_,0
+"fyi, your gitter.im dark theme has a css bug that incorrectly colors the channel user count to be invisible: ie: _code_ needs to not exist, i believe. _eou_",0
+"i am not able to edit my last message because there is this green """"1 unread"""" box on top of the context menu button. _eou_",0
+there is no way to remove the green box. _eou_,0
+you have to wait until someone else writes something to be able to edit your message. _eou_,0
+leaving rooms is broken. _eou_,0
+I am trying to concatenate multiple moveto actions. _euo_,1
+I am working on a big project and we want to use angular elements to extract some of the components to be used in a wordpress website. _eou_,1
+is it possible to import a docker-compose file into another? _euo_,1
+"we wanted ""mjsonwp protocol requires type and ms"" and you sent {""script"":100} _euo_",1
+just wanted to find out if anyone knew of the issue when calling attempting to get the location of a selenium element inside of ruby ? _euo_,1
+i tried to add click() and sleep() to slow the process down _euo_,1
+anyone had an error like this before when trying to load a route? _euo_,1
+dnditem should have original position styling after mouse upcode . _euo_,1
+so I am trying to use signalr with my app . _euo_,1
+according to the docs it should error on unknown attributes: _url_ _euo_,1
+is there a way to avoid the first router transition? _euo_,1
+does any one have problems with finding elements in ios application with ios driver? _euo_,1
+just tried to upgrade angular from _version_ to _version_ _euo_,1
+I am trying to import a keras (functional) model into dl4j. _eou_,1
+should ng-bootstrap be prefixing its local variables so that this sort of thing will not be an issue? _euo_,1
+one of the components that we want to extract is from the shared module. _eou_,1
+"to the original sample classifier, in the datafetcher we added: _code_. _euo_",2
+it should be like this: _code_. _euo_,2
+"my environment is eclipse, java _version_, cpu. _euo_",2
+this is my code:_url_ and this is my pom file _url_ but it failed. _euo_,2
+"about the crash, I am running the following 4 lines of (kotlin) code in multiple threads:_code_. _euo_",2
+as some the examples have: _url_. _euo_,2
+"the os is ubuntu _version_ lts and the java version is java version ""_version__101"" openjdk runtime environment (icedtea _version_) (7u101-_version_-0ubuntu_version_) openjdk 64-bit server vm (build _version_-b01, mixed mode) _euo_",2
+the script i use is _url_ . _euo_,2
+I am seeing the crash with openjdk8. _euo_,2
+it worked prior to _version_ _euo_,2
+emulator android _version_ my capabilities _code_. _euo_,2
+my locators like this _code_ . _euo_,2
+my operating system is ubuntu _version_ _euo_,2
+it is .net implementation _code_. _euo_,2
+here is an example how i call the sendkeys function..._code_. _euo_,2
+_code_ is the template for the item I am styling. _euo_,2
+i am use chrome as the browser used by jasmine. _euo_,2
+i am just changing styles and checking styles _euo_,2
+i am using universal and the server renders the view. _euo_,2
+i have created file rxjs-extensions.ts and i do import './rxjs-extensions'; in app.module.ts. _euo_,2
+so i created a custom function for using _code_ .._code_. _euo_,3
+"i filed a bug against this about 5 months ago, it has not gotten any traction. _euo_",3
+has anyone successfully done aot build following _url_ ? _euo_,3
+i know why that test failed. _euo_,3
+im not sure i understand your questionatdaddyschmack. _euo_,3
+wonder if i hit another bug with debug element _euo_,3
+but what do you mean by layout? _euo_,3
+"if you drop a debugger in there, what do you see? _euo_",3
+i was just remarking on how its not ideal to be accessing native element properties in my directive thats all. _euo_,3
+i dont have any problems yet with offsetheight and offsetwidth _euo_,3
+I am having problems with the zone.js _euo_,3
+"can someone help me, please _code_ ? _euo_",3
+the thing is that is catching one error and throwing another _euo_,3
+"yes, it is returning true _euo_",3
+"so, how i can catch it? _euo_",3
+because with a simple try/catch I am not able _euo_,3
+hi  strange problem. _euo_,3
+using firebase i making a chatbot app. _euo_,3
+in the oninit cycle i subscribe to the input-observable but first push a welcome message to the firebase list observable. _euo_,3
+why did the documentation left out the whole unsubscribing from route params subscription from the docs. _euo_,3
+we do not need to subscribe or unsubscribe. _euo_,3
+"it is much simpler to write and read:_?"" _euo_",3
+these lead one to believe that subscription should be done. _euo_,3
+"i appreciate your response, but i feel you did not really read what i asked. _euo_",3
+"why does the documentation include expressions like ""the asyncpipe, which will handle unsubscribing from the observable for us"" and ""a snapshot alternative that gives us the initial value of the route parameters. _euo_",3
+"we do not need to subscribe or unsubscribe."" _euo_",3
+if unsubscription it not needed anyway? _euo_,3
+"why refer that snapshot alternative and async pipe make it unnecessary to unsubscribe, if that what it already happens anyway _euo_",3
+"maybe i was not clear before, sorry . _euo_",3
+i know you do not right docs. _euo_,3
+but i was hoping you were able to help out understanding angular's features. _euo_,3
+"i know that you do not unsubscribe snapshot, that is pretty easy to understand. _euo_",3
+"my point is, why the emphasis on the wonders of using methods that allows to skip unsubscribing, if that already happens? _euo_",3
+and I am just going to assume that that emphasis should not be there and that it is a bit misleading. _euo_,3
+"and ""we do not need to subscribe or unsubscribe"", could be changed to just ""we do not need to subscribe"" _euo_",3
+"but i was told here that router params unsubscribe is done anyway on component destruction, without any need to do it explicitly using the ondestroy hook. _euo_",3
+that is new for me . _euo_,3
+"i was told that here, after i asked why the recommendation to unsubscribe using the ondestroy hook was removed from the docs. _euo_",3
+but i still feel a bit confused from the things i just asked a couple of minutes ago. _euo_,3
+I will just focus more on the docs repo for things like these _euo_,3
+"in case you are interested, regarding the whole router params unsubscribing thing from yesterday, i finally got clarification here: _url_ summarizing: ""i see your point. _euo_",3
+not having to unsubscribe was a virtue of snapshot. _euo_,3
+now it isn't. _euo_,3
+not having to subscribe remains a snapshot virtue. _euo_,3
+I will update prose accordingly. _euo_,3
+are there any known issues with ngif rendering on ie? _euo_,3
+i have a really simple ngif that just checks a boolean that gets flipped by a function in the component. _euo_,3
+why are t not being set to valid and touched then? _euo_,3
+_url_ am i doing something wrong here or is this a bug . _euo_,3
+thanks thats exactly what i was referring to _euo_,3
+would you mind linking the pr? _euo_,3
+therefore it wont be in till the next major version . _euo_,3
+i do not know but angular still dosn't support it . _euo_,3
+same issue was here though _url_ which you can still see here _url_. _euo_,3
+"i still not sure whether its a bug or i just doing something wrong, maybe ngmodel is requirement when you want ngcontrol to work properly . _euo_",3
+is there anyone here who is used ssr in production? _euo_,3
+"is this a bug, or do you know a workaround for the following problem? _euo_",3
+imagine you have the following webcomponent: _code_. _euo_,3
+the component reads the text inside the script tag and sends it to a server which evaluates the result. _euo_,3
+the webcomponent should be embedded in an angular app. _euo_,3
+it is no angular component and should just rendered as is. _euo_,3
+"it has contain a script tag, because 'text/plain' allows it not to be parsed as html and like this it is possible for expressions to contain characters like < as in var1 < var2 without being recognized as the beginning of a html tag. _euo_",3
+"i read, that this is because you should not mix javascript with angular templates, but this is just plain text. _euo_",3
+is there a workaround. _euo_,3
+is it a bug? _euo_,3
+I have a really weird scrolling bug. _euo_,3
+"until you switch to another page.. what could be the problem, and how can i investigate it? _euo_",3
+thanks will try that! _euo_,3
+how would i actually set breakpoints on scroll events? _euo_,3
+"cannot it just make a list of function calls or something, instead of pause? _euo_",3
+because this is really frustrated to debug . _euo_,3
+add logging  breakpoints to anywhere your code could possibly touch scroll or height of the element in question and look at the logs to narrow down the area of code its happening in. _euo_,3
+"ye exactly,it could be the theme, _euo_",3
+cannot i add an event listener to check if for exmaple window. _euo_,3
+"okay cool so i do see the ""up"" is triggered, and i have the event data. _euo_",3
+now i need to find where it get the call from this shoudl be available in the event data? _euo_,3
+no look at the stack _euo_,3
+so hard to stack and the problem only happends after ~4 page switches _euo_,3
+i filed a bug today but i want to make sure with you that it really is a bug and not my error: _issue_. _euo_,3
+can anyone tell me if I am flushing my request wrong here: _code_. _euo_,3
+"i think it might be a problem with the way I am flushing my  requests, maybe I am not cleaning up properly and leaving some requests ""hanging"". _euo_",3
+"every service test i write using the same general pattern ( _code_ ) is exhibiting this same buggy behavior, so maybe it is me. _euo_",3
+is there a reason for this or is it a bug? _euo_,3
+", ran into an interesting bug, and i am not sure this is just my problem, or ng-bootstrap problem, or a best practices problem, or some combination. _euo_",3
+so the question is: should we have known better than to use dropdown as a name? _euo_,3
+it took me an embarrassingly long time to figure that out. _euo_,3
+"i open to theories, but that is definitely the issue. _euo_",3
+"note that i use dropdown inside the ngbdropdowntoggle element, and that is where the clash happens, i think. _euo_",3
+so is this an angular bug? _euo_,3
+"if so, i ike to report it properly, but i do not  know what a good minimal example would be. _euo_",3

@@ -1,0 +1,216 @@
+sentence,label
+i was scared to join this room cause now it will be stuck on my sidebar. _eou_,0
+results:menu closes and room still exists. _eou_,0
+also the room moves up in the sidebar. _eou_,0
+there was many errors in the console when i opened it. _eou_,0
+refreshed and did not keep the logs and feature is working now. _eou_,0
+"last line of chat log often renders only top half of the text,almost like the text box is a bit too tall. _eou_",0
+"whenever i visit one of our community rooms, i can still delete messages in it just fine. _eou_",0
+"but as soon as i switch to another room and back to that room, the option is grayed out. _eou_",0
+i still have all the other normal admin options available to me just fine. _eou_,0
+browser refresh does not solve it and it only happens the first time. _eou_,0
+"after that, the option is grayed out forever, even after restarting the browser. _eou_",0
+I am seeing a lot of messages failing to send and having to retry in the last 3 days. _eou_,0
+like _url_ . _eou_,0
+it seems to randomly open the window multiple time on white empty. _eou_,0
+"the task bar shows 1 only, exiting from there, close them all, also the ""white ghost"" will remain ""white"" until resized manual. _eou_",0
+"also there’s a bug where channels, even when you view them and scroll to the bottom, do not automatically mark as read. _eou_",0
+not even sending a message helps. _eou_,0
+t popup as toast messages and i have no idea where t are coming from. _eou_,0
+"when i try, the update fails because it says that there are other gitter apps running (even when I have just rebooted) and the update fails. _eou_",0
+so now I am getting these notifications that i cannot do anything about. _eou_,0
+"I have tried to delete the app, I have tried turning it off as a startup app, it is not in my notifications panel, and yet still this distracting pop-up every little while. _eou_",0
+"i even deleted the app from my machine and rebooted, and still it is giving me these messages and did not remove it. _eou_",0
+"I am faced with ""gitter has stopped."" message throughout the day, any ideas what is wrong? _eou_",0
+i also do not see a way to post a picture on my phone. _eou_,0
+"i just installed the gitter windows client, when attempting to login with gitlab i get a ""422 the change you requested was rejected."" error. _eou_",0
+also attempted using the irc version and mirc just flops when attempting to connect to the _url_ but that is less important... can only use the in-browser client right now. _eou_,0
+the avator menu options show nothing about the account. _eou_,0
+"the hide-left-panel hamburger button is all but invisible on my monitor, perhaps make it as dark as the other buttons? _eou_",0
+some people use github usernames i do not recall. _eou_,0
+"gitter.im keeps saying that i have unread messages, but i haven't. _eou_",0
+"clicking the ""2 unread"" scrolls the chat up a few lines and when i scroll down the message stays. _eou_",0
+i am seeing this behaviour on multiple pc's. _eou_,0
+it is not always there and sometimes it says there is 1 unread and other times it is 2 or more unread messages. _eou_,0
+there are no messages with a green background at the time i see this 'warning' _eou_,0
+I am having some difficulty controlling email notifications. _eou_,0
+"i have defaults to ""announcements..."" and have forced all the conversations I am in to use these, but yet i still get many emails a day which do not include announcements or mentions. _eou_",0
+a coworker has confirmed his frustration with the emails. _eou_,0
+many rooms / conversations do not show the input area at the bottom of the screen. _eou_,0
+"i cannot send messages, only see what is there already. _eou_",0
+"when the content _code_ gets in the locked state, it only only loads _code_, but no other xhr. _eou_",0
+this _url_ sometimes gives an internal server error: _code_. _eou_,0
+this problem started yesterday after ~14:00 utc+1 . _eou_,0
+"furthermore, it tries to submit an error log to sentry.gitlab.net, but this request just never finishes. _eou_",0
+"i can even shift+reload right now and the ""unable to communicate with gitter"" notification by chrome pops up. _eou_",0
+get _url_ then returns an error 500 status _eou_,0
+_code_ can give 404 errors. _eou_,0
+"anyways, I am still getting ""unable to communicate with gitter"" notifications from the gitter.im website _eou_",0
+"pay attention to the _code_ output, it shows nothing:_code_ . _eou_",0
+"after i updated to the latest version of docker, i cannot now connect to any of my containers' databases, like mongo always throws that auth failed. _eou_",0
+i have successfully run docker build command but image does not show up in the docker images command . _eou_,0
+"_code_ successfully build builds image and exits successfully, but the image named ""manjeet28/catnip:latest"" does not show up in the docker images command. _eou_",0
+buildx is not geterating images. _eou_,0
+it’s not giving errors also. _eou_,0
+"command i used: _code_, output: _code_ . _eou_",0
+the socket gets the following permissions and ownership inside the container:_code_. _eou_,0
+meaning it cannot be accessed from inside the container with regular user privileges. _eou_,0
+the socket is not there at container build time when i could still switch between root and regular user. _eou_,0
+the socket only available at container run time. _eou_,0
+and at that point the container is being run as a regular user. _eou_,0
+i have installed virtualbox but not able to run.,0
+"ubuntu,command: _code_, error: _code_. _eou_",0
+"command _code_,error _code_, os: ubuntu. _eou_",0
+"_code_ deleted my persistent volume, is it normal ? _eou_",0
+"every time when i run a docker with -d , it deletes my volume (or atleast i cannot see mysql created db) when i spin up mysql container _eou_",0
+"i cannot seem to get docker to run within the guest os (windows 10, macos). _eou_",0
+in both i keep getting errors about virtualization. _eou_,0
+running _code_ on dockerhub is throwing an error _code_. _eou_,0
+whereas building on local machine using docker builds the module without errors. _eou_,0
+no idea why i suddenly (well after a reboot of a server down due to 0 free space on ) get the error _code_ to _code_? _eou_,0
+"docker stack rm works, same as _code_, only deploy/up is dead. _eou_",0
+"answer to myself, solved by itself after a um upgrade all and a reboot. _eou_",0
+it is auto turn off server docker desktop on mac. _eou_,0
+so i try to check to log it shows like this: _code_. _eou_,0
+"i use docker-compose _code_ well the laravel can connect to mysql, but only when i using phpunit to test when i runt it, it fails. _eou_",0
+i always go tthis error _code_. _eou_,0
+"even if i remove echo  world, i am getting same error _eou_",0
+"it is weird, because locally it is working fine, but running on docker i get this error. _eou_",0
+any idea why this hubert loss function would fail _code_? _eou_,0
+same network is working correctly for mse loss function. _eou_,0
+"when i use cpu to run my model, it works fine, but when i use nd4j-cuda-_version_ with my 2060super, my evaluation metrics are just all 0's _code_. _eou_",0
+when i run example code with cuda it works fine. _eou_,0
+when i use my same model but with a dataset like mnistdatasetiterator it also works fine. _eou_,0
+"again, my model works correctly with cpu. _eou_",0
+"but i cant load,i am getting _code_. _eou_",0
+"i train a wide_deep keras model,but can not be imported by deeplearning4f. _eou_",0
+deeplearning4j do not support multi inputs? _eou_,0
+"when i use maven version-_version_-beta6 ,it has an error but _version_-beta7 is ok . _eou_",0
+"it is running fine in client mode, but in cluster mode nothing is happening. _eou_",0
+"nothing, in client mode jar is uploading logs are coming, but in cluster mode even jars not getting uploaded , and not logs is coming. _eou_",0
+"but on _url_ i do not see any changes, just blank sections for graphs without any useful info; all i was able to see is diagram with layers on /train/model but again without any graphs. _eou_",0
+what would be the best way to indicate to angular that this component should be an angular element? _eou_,1
+i am trying to build my app and i get the error above. _eou_,1
+so how do i make ng-packagr compile es2020? _eou_,1
+"give up on protractor, or is there a way to get pollyfills working with angular 12 + protractor? _eou_",1
+can i install specific version of angular and not with the cli. _eou_,1
+I am trying to upgrade angular 8 to 11. _eou_,1
+anyone here who has an experience with building custom angular library ? _eou_,1
+"how to solve the problems or ""reset"" swarm internal dns? _eou_",1
+is there a bug when trying to select 'new community' when creating a room on the mobile client? _eou_,1
+"specifically, am i able to view gitter rooms via my matrix element client? _eou_",1
+i tried sending a direct message to my gitter account from my element account _eou_,1
+so I am trying to create a community. _eou_,1
+when i try to put my github name as the community (_url_) _eou_,1
+how do i know what account is being used when using gitter? _eou_,1
+"it seems that gitter will auto complete also with display names inside a room, but could i configure it to complete within an entire organization? _eou_",1
+trying to obtain a token from _url_.  _eou_,1
+I am using _version_ - the same version as for _version_ angular _euo_,2
+also this repo is using _version_ _url_ . _euo_,2
+i think the bug appears after upgrading to angular 6 _euo_,2
+"here is an example of the bugged code, which came indirectly from a project i am working on that inexplicably broke between ng-bootstrap alpha 5 and 6: _url_ . _euo_",2
+here is the relevant code in the ng-bootstrap library: _url_ . _euo_,2
+"also, one additional information, this is an angular universal application. _eou_",2
+i recently updated to angular 11. _eou_,2
+"I have set module, target and lib to es2020 in all my tsconfigs - everywhere. _eou_",2
+i have upgraded my project from angular 5 to angular 10. _eou_,2
+i upgrade angular to v12. _eou_,2
+i have some problems while upgrading my appication to latest angular version. _eou_,2
+i have a question after updating angular _version_ to 11 there was an error i think it is connected with gulp.so  _eou_,2
+updated docker _version_ to latest _version_ and swarm started with dns and dnat problems. _eou_,2
+google chrome is up to date version _version_ (official build) (64-bit). _eou_,2
+"selecting the room from the sidebar, opening the room settings, selecting the option leave this room. _eou_",2
+i keep getting messages to install gitter _version_ update. _eou_,2
+"folks, I am running windows 10 release 2004. _eou_",2
+I am using _version_ on android. _eou_,2
+i use docker on macos _code_ . _eou_,2
+"i do not know if it is a bug, honestly. _euo_",3
+"everyone, i hope you are doing well. _eou_",3
+should it be done in the _code_ or the _code_? _eou_,3
+ask anything if you need more info. _eou_,3
+"maybe that is relevant, but i do not think it needs to be. _eou_",3
+", does anyone have an idea why this error is happening? _eou_",3
+any immediate help is appreciated as i am unable to proceed further! _eou_,3
+is there something else i should be doing? _eou_,3
+i crafted the issue here - _url_ . _eou_,3
+can anyone please help me? _eou_,3
+I have googled it and updated my node version. _eou_,3
+"i saw the page that mentioned needing to add in _code_ to the package.json of the shared libraries, but I am not sure how to go about that since t all seem to already have that setting. _eou_",3
+anyone run into this or have any tips? _eou_,3
+"I have read that ng-packagr uses its own internal tsconfig, so that is probably why it is ignoring my es2020 target. _eou_",3
+why does my angular app compile npm packages to es2015 when my target is es2020? _eou_,3
+"as you probably can see, I am a bit confused. _eou_",3
+what is the deal with protractor and angular 12.x? _eou_,3
+relevant _issue_ does not provide a definitive solution despite having been closed. _eou_,3
+what are we supposed to do here? _eou_,3
+"should clarify, this is when attempting to run npm run test (npm e2e works fine). _eou_",3
+I am new here. _eou_,3
+looking for some info/help regarding angular versions. _eou_,3
+can anyone tell me how to resolve this. _eou_,3
+i have a strange problem when i run ng serve. _eou_,3
+anyone has idea what can we do to bring them back? _eou_,3
+i created a github project: _url_ . _eou_,3
+"i have one issue, can please any one help me this issue. _eou_",3
+I have got a strange problem with the  client. _eou_,3
+I am not even sure where to start troubleshooting this. _eou_,3
+I am not sure where where to even look next. _eou_,3
+i think there is something wrong with the api itself. _eou_,3
+"have you ever faced this issue, while running tests? _eou_",3
+"this was done automacitally, now i should somehow configure webpack configuration js file. _eou_",3
+i need help with an issue. _eou_,3
+basically i have two angular applications where i am including this angular library served as npm package. _eou_,3
+this library contains components with template files. _eou_,3
+"there are image assets that have been refered to, from the components of library. _eou_",3
+image assets are also included in the library project. _eou_,3
+is there any one who can help me with this. _eou_,3
+i am ready to share more information on this. _eou_,3
+so how can i find out what the problem is ??? _eou_,3
+"well, thank you, may you tell me how i can share it with you? _eou_",3
+maybe it is related to this issue with pip _issue_ . _eou_,3
+"i have quite an interesting issue with docker swarm, and I am wondering if someone can help. _eou_",3
+"I am not sure how to look further into this, and I am wondering if anyone has had similar problems. _eou_",3
+i figured my issue out. _eou_,3
+it was a bug with the docker version i was on. _eou_,3
+since this morning I am experiencing a weird bug. _eou_,3
+i am experiencing this issue in every room (not one-to-one rooms) I am part of including this very room gitter/gitter. _eou_,3
+another one to check log is cdnjs/cdnjs. _eou_,3
+i am curious as to the current state of the gitter/matrix integration. _eou_,3
+thanks for the details! _eou_,3
+anyone know why i cannot seem to use mic686 as the community name? _eou_,3
+what dash-devs user are you talking about? _eou_,3
+and I am signed into gitter from github. _eou_,3
+"also, how do you delete rooms that you have created? _eou_",3
+is there a trick for it to work? _eou_,3
+i have attempted to leave 6 different rooms from the sidebar with the following steps. _eou_,3
+"uh ya, thanks for the instructions but did not help. _eou_",3
+"thanks, it is driving me nuts. _eou_",3
+is there some kind of bug in gitter for deleting messages as room admin? _eou_,3
+"alright, thanks a lot I will get onto creating that issue . _eou_",3
+"done, issue created. _eou_",3
+is there some known issue? _eou_,3
+anyone seeing weird behoavior of the gitter for windows on boot ? _eou_,3
+"I am not sure how to make a ""repro"" of it except ""kill it and run it multiple time"" :d _eou_",3
+any plans for a dark mode on ios? _eou_,3
+"because of these unwanted toast messages, i uninstalled the gitter program, attempted to block the gitter.im site notifications in both edge and chrome, and checked both browsers for an extension. _eou_",3
+what do i do?? _eou_,3
+"thank you, eric. _eou_",3
+"it took a little digging through the comments though, so i posted exactly the steps that worked for me there on the ticket: _url_. _eou_",3
+"about every hour or so, i get a popup notification that says i should update my app. _eou_",3
+how can i make this stop?? _eou_,3
+happy to use the app if i can successfully update it. _eou_,3
+"nope, I have tried it at least 3 times. _eou_",3
+even ran it as admin. _eou_,3
+"tried ingoring the errors and overwriting, nothing works. _eou_",3
+i see thank you. _eou_,3
+"welp this is super dead, back to discord/slack _eou_",3
+this would remove a lot of friction in inviting people to rooms. _eou_,3
+any ideas how to get rid of this? _eou_,3
+"no , i do not think there is a threaded conversation. _eou_",3
+i will try next time i see it and confirm. _eou_,3
+"ok, will do, thank you _eou_",3
+"oh, that is good. _eou_",3
+i have read this and i believe i have things configured correctly _url_. _eou_,3
+is there something we are doing wrong here? _eou_,3
+do email notifications not use this configuration? _eou_,3
+are t simply on for all messages or off? _eou_,3
+is this new behavior? _eou_,3

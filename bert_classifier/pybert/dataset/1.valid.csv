@@ -1,0 +1,217 @@
+sentence,label
+"what i am observing is that,the webdriveragent is not getting properly launched on my iphone whenever i am launching it via appium. _eou_",0
+the webdriveragent is getting crashed. _eou_,0
+"i have followed the steps mentioned in the portal _url_, but still everytime i am facing this problem. _eou_",0
+"when i try to automate i am getting, _code_error. _eou_",0
+on windows starting appium desktop and protractor test run gives me an _code_ error. _eou_,0
+"i have used the same stack with same versions (appium, protractor, cucumber) on macos and did not get this error. _eou_",0
+_code_ getting this error any idea? _eou_,0
+when running separately from grid (targetted to only one device) i do not see this error _eou_,0
+",my simulator is opening and booted and failed to install my app second time. _eou_",0
+it works fine when i start the session for the first time. _eou_,0
+but does not work on the second time. _eou_,0
+tried with xcode 10 and appium desktop _version_; it works fine with android ! _eou_,0
+but not with ios ! _eou_,0
+the app shows the app in the inspector but no webdriver agent is getting installed in my simulator. _eou_,0
+i cannot able to click on any calendar apps in simulator ! _eou_,0
+has anyone gotten into the state where appium cannot detect the elements in view by running script? _eou_,0
+appium-doctor is showing everything is good and this started happening after i updated to xcode 10. ( i was forced to due to ios _version_) _eou_,0
+"i got a question, when i do parallel testing on real ios devices, let us say i have two iphone connected to same macbook pro, (no grid) one appium server with two wda prot, it runs test on safari simultaneously, the problem i have is when i try to execute scripts on webdriver only one devices's work, other one says can not detect webview, but when i visit localhost:9221 it shows both two devices. _eou_",0
+i do not have any issue with mojave and ios 12 _eou_,0
+"i checked the log, appium first check localhost:9221/json and it will return array with size of two, but appium always uses first one from the list _eou_",0
+"i manually assigned the webkitdebugproxyport from localhost:9221/json, and now it is working both of the phone driver able to detect the webview from the port i have assgined _eou_",0
+i get the following _code_ error even though the app is in this location and i have installed it on the emulator too. _eou_,0
+I am seeing this exception: _code_. _eou_,0
+the offending template line is _code_ if i remove the option line (and just leave an empty select tag) the code runs without exception. _eou_,0
+"if i click on a spec in chrome (where karma runs the tests), it will reload all tests instead of focusing on that test. _eou_",0
+if i use karma 6 it will even try to reload the whole website. _eou_,0
+"and it is not because of the code in my project, i even tried to create an new empty project and got the same result. _eou_",0
+i keep getting error in maximum call stack size exceeded. _eou_,0
+no stack trace or any additional information on what went wrong. _eou_,0
+full output: _code_. _eou_,0
+"while updating from angular 10 to 11, update is successful, however on doing ng serve, i am getting the error _code_. _eou_",0
+no other information is present on the consoler apart from the above error _eou_,0
+"and it updates successfully but when when use ""ng v"" then it shows previous version. _eou_",0
+here is the output _code_. _eou_,0
+i am unable to load my angular app in safari which i have downloaded/installed in windows. _eou_,0
+when i load a page with a reactive form on it that has validators I am getting this following error: _code_. _eou_,0
+", i am having this weird bug where using an observable in an ngif directive causes the router-output to not activate. _eou_",0
+i see wds disconnected on the console. _eou_,0
+"when i run ng serve, my app is running fine but i see some stranger error message like below: _code_. _eou_",0
+"the problem is the following, the items link is being calculated as /items (from the root, not relative to the current route). _eou_",0
+"so if you visit _code_ and then click on items, it breaks. _eou_",0
+does anyone know what might've caused my relative routes to stop working once i updated to angular 10 from angular 9? _eou_,0
+"this was working fine in angular 9 _code_, the url would be relative to where i was, however, after upgrading to angular 10, the url is now absolute for some reason. _eou_",0
+"i did, and it did not work. _eou_",0
+"for reference, in angular 9, if i was at the route customers, the routerlink for _code_ would produce _code_ just fine, however, after i upgraded, the url being produced is _code_, as if it was an absolute route, for some mysterious reason. _eou_",0
+the problem is that when the csv file is very small and the download almost starts instantly _code_ does not seem to be executed. _eou_,0
+however when the csv file is large or i use the same logic to get a large .zip file it works. _eou_,0
+i also tried to use settimeout which weirdly does not work for me. _eou_,0
+"angular-reactiveformsmodule - when i add custom validators under both syncvalidators and also asyncvalidators , this is what is happening, the both the syncvalidators gets invoked but asyncvalidators does not get invoked. _eou_",0
+"if i remove the custom syncvalidators and add the inbuilt validator , then the asyncvalidator gets invoked. _eou_",0
+"even though it works correctly, i get this error _code_. _eou_",0
+after upgrading to 11 found a look/feel change with css or cssgrid where when using a child component the component renders midway to the end of the parent. _eou_,0
+"some issues cropped up between 10 and 11. when components contain themselves to 3 levels, the css grid does not seem to work correctly. _eou_",0
+unable to get property 'setinputvalue' of undefined or null reference. _eou_,0
+and angular language pack isnt working on my html files. _eou_,0
+when building i get this error: _code_. _eou_,0
+and it seems that change detection strategy. _eou_,0
+default does not work anymore. _eou_,0
+it seems the out-of-box configuration does not work. _eou_,0
+somehow I am missing something and it is not working as expected. _eou_,0
+"_code_ i can log the correct token, i authenticate correctly but then the page just freezes. _eou_",0
+if i wait a bit i get this on my console: _code_. _eou_,0
+i even have problems closing the tab because it just freeze the browser. _eou_,0
+"when i compile it with _code_, i get this: _code_. _eou_",0
+when running ng test I am not seeing the line numbers of the error. _eou_,0
+"I have tried adding a new config in _code_ called ""test"" that does not bundle anything but when i run _code_doesn't find it. _eou_",0
+I am having some weird behaviours after updating like the following: _code_. _eou_,0
+"after updating from ng 9 to ng 10 - with some difficulty, i now have an empty page on all my routes. _eou_",0
+however it seems to be working fine if i build for production.... _eou_,0
+reinstalling webpack-dev-server seems to have helped _eou_,0
+im getting weird error _code_ when i inject service in the interceptor. _eou_,0
+"no  calls or use of client, just another service who sets and gets localstorage values. _eou_",0
+"the problem is that when the workflow is running, i get as error building the angular v10 projects, complaining that ""ngcc"" is already running. _eou_",0
+you can check the logs of the workflow following this link _url_. _eou_,0
+"my situation is such that i cannot use relative paths, my angular app is inside a .net mvc project. _eou_",0
+i have a really annoying issue which makes my test sometimes fail and sometimes pass. _eou_,0
+this does not happen always and it seems to be happening only in the azure build pipeline. _eou_,0
+here is the error: _code_. _eou_,0
+"if i re-run the tests, the component that failed will change. _eou_",0
+"i have a problem, my service worker is registered correctly, when i run the application without starting, everything works correctly, but when i run it with prerender and the files are generated, my service worker does not cache, the push notifications do not work, but it succeeds installed, the output from debugging the service worker is this _code_. _eou_",0
+i have to click twice to login in..... _eou_,0
+why do i have to click twice?,0
+it seems i need two clicks to login..... _eou_,0
+"in short, query list does not work in testing environment. _eou_",0
+"when building using bazel, i am getting errors of the form _code_. _eou_",0
+in fact the same exact code works perfectly fine _eou_,0
+I am using grapesjs and the production minification is breaking the function names and therefor the plugin will not work with a production build. _eou_,0
+works great with a dev build. _eou_,0
+its returning the value as undefined eg: _code_，_code_ is returning undefined for me _eou_,0
+the same is working fine when i pass it as webcomponent using _code_ and pass everything as js and inject it. _eou_,0
+I am having some issues while finding button element. _eou_,1
+i am trying to automate windows application. _eou_,1
+i want to use overload to reduce duplicate type guard functions. _eou_,1
+i get this issue only when i try to run with grid using selenium _version_jar. _eou_,1
+i tried to open a native app by using appium desktop with desired capabilities! _eou_,1
+i tried to invoke the native app ios with appium desktop. _eou_,1
+", I am trying to upgrade from angular 9 to 10. _eou_",1
+i am try to updating angular from 10 to 11. _eou_,1
+does anyone know how to always use the route relative to the current url? _eou_,1
+what I would like to do is be able to visit _code_ and then click on items and it would redirect me to the relative _code_ route (making the route _code_) _eou_,1
+does anyone know how i could guarantee to execute _code_ after a download started? _eou_,1
+i am trying to access to limit from template as _code_. _eou_,1
+I am trying to import a keras model (trained with keras _version_-tf) with _code_ . _eou_,1
+", having an issue with building a lib, where i have interfaces shared folder within a lib, also referenced directly in one of the components within the lib. _eou_",1
+i am building a library that contains a lazy-loaded route like this: _code_. _eou_,1
+i want to show a pop-up message that indicates that the file to be downloaded is loaded from the server and when the download itself happens i want the pop-up message to disappear. _eou_,1
+i am using appium to automate an android app with an installed accessibility service on. _eou_,2
+anyone seeing issues with xcode _version_ and ios _version_ with simulators? _eou_,2
+i am using webdriver.io and appium for android and ios web scripts. _eou_,2
+i am executing scripts on iphone 6 with ios version of _version_ _eou_,2
+",i am using appium desktop _version_, macos mojave _version_ with xcode _version_ and iphone 5c(ios _version_) to perform appium automation test on a mobile native and web app. _eou_",2
+", i am using appium _version_ version and using iphone x _version_ _eou_",2
+my ios version is _version_ _eou_,2
+i am using appium desktop _version_ _eou_,2
+protractor _version_ and cucumber _version_ _eou_,2
+i am using webdriver - _version_ _eou_,2
+i am using appium _version_ and running in mac. _eou_,2
+i am using xcode _version_; appium desktop _version_! _eou_,2
+appium version: ._version_ .xcode : _version_ . _eou_,2
+ios sdk version : _version_ . _eou_,2
+I am using uiautomator2. _eou_,2
+i recently upgraded my ng 10 app to ng 11. _eou_,2
+i recently upgraded from angular _version_ to angular 10.  _eou_,2
+"for example, in this stackblitz _url_. _eou_",2
+i have the following code right now: _code_. _eou_,2
+i have angular-cli-_version_; node: _version_; os:win32 x64. _eou_,2
+i have a component with links to those routes. _eou_,3
+is this the intended behaviour of custom validator in angular? _eou_,3
+what is wrong here? _eou_,3
+anyone faced this issue ? _eou_,3
+please let me know. _eou_,3
+i hope someone can help me here. _eou_,3
+"I am stuck on this issue, any help is appreciated! _eou_",3
+"i have to trigger the changes manually with ""markforcheck"" or ""detectchanges""... did i missed something in the migration please? _eou_",3
+does anyone have a ssr'd app that uses app-shell? _eou_,3
+has anyone looked at _issue_ at all? _eou_,3
+any idea on what is happening? _eou_,3
+anyone met the same issue ? _eou_,3
+"if anyone want to check it, I am still interested. _eou_",3
+_issue_ i hope t fix this soon as it defeats a good part of having libraries _eou_,3
+I have tried with and without _code_. _eou_,3
+", when updating from 9 to 10, will angular use webpack5 by default? _eou_",3
+what would this be? _eou_,3
+what can be the reasons? _eou_,3
+i have already researched for any solution to this problem but I am clueless. _eou_,3
+i appreciate if someone has the time and experience to guide me in the right direction. _eou_,3
+I am sure I am not the first one asking about this. _eou_,3
+I am having this issue. _eou_,3
+the answers from angular team are not sufficient. _eou_,3
+the issues are closed by bots _issue_. _eou_,3
+"everyone, hope you are having a good day. _eou_",3
+I am really confused about it because it is not only here that it happens. _eou_,3
+do you have any recomendations what to do about this? _eou_,3
+_issue_ _eou_,3
+can anyone please help on firebase aunthentication?_eou_,3
+i have tried to google around with no luck. _eou_,3
+"any material i can read and understand firebase well , will also be helpful. _eou_",3
+amusing= i am using*. _eou_,3
+i will checkout but i have already done most of the coding..._eou_,3
+what i am wondering is...  _eou_,3
+i am checking your blog... _eou_,3
+there is a slight difference let me try to change and see. _eou_,3
+hi  i have just bumped into issue _issue_. _eou_,3
+do any of you know how to overcome that issue? _eou_,3
+hi i have a question related to angular + bazel. _eou_,3
+i have already checked on the correct module imports and everything. _eou_,3
+can anyone help me out with this. _eou_,3
+is there something i should do? _eou_,3
+"ok, good to know. _eou_",3
+"ye, that is true. _eou_",3
+"i do not think mine is broken either, it just made me curious. _eou_",3
+"this is a very specific issue, but any help would be greatly appreciated. _eou_",3
+any help is appreciated. _eou_,3
+could very well be! _eou_,3
+"(on two different machines, which are on two different and unrelated networks) _eou_",3
+"thanks, I have opened dev tools and will see what happens. _eou_",3
+"it just happened again, so i doubt I will have to wait long. _eou_",3
+"seems ""legit"", but why so often? _eou_",3
+is this an issue? _eou_,3
+"""opened 4 years ago"". _eou_",3
+when will it be fixed? _eou_,3
+just kidding... hope it will be fixed soon... _eou_,3
+does that have anything to do with it? _eou_,3
+thanks for the update - it sounds like i left a tab open or something. _eou_,3
+"is it because of the desktop signin, or is that unrelated? _eou_",3
+"i closed the desktop browser tab, will let you know if i see any notifications. _eou_",3
+hi - is there a known problem with search? _eou_,3
+"yes, seems to be up to date again, thanks _eou_",3
+like one between just two people. _eou_,3
+"i accidentally opened a chat with a user whose username is ""mysql"". _eou_",3
+never said a word to him or her. _eou_,3
+"so ye it is probably the one you mentioned that is impacting me, sorry. _eou_",3
+"i figured out why i was getting bogus data, i only selected one of the servers lol _eou_",3
+_issue_ _eou_,3
+"it clears it in that i can then load gitter.im again and use this chat, which I am currently doing to chat to you, but any attempt to create the community leads to the same issue. _eou_",3
+"oh, looks like my community did get created after all. _eou_",3
+"no, apparently a colleague of mine created the room/community using chromium. _eou_",3
+"thanks, , just knowing it happens to others is a big help. _eou_",3
+(i should have remembered to put in os+version to begin with) _eou_,3
+i have since created it without adding people during the create stage. _eou_,3
+android version seems a bit inconvenience. _eou_,3
+i think i will submit this issue later. _eou_,3
+but you all agree with me that gitter needs upload btn and share hook (which allow gitter accept files from other app) right. _eou_,3
+"the system in question is behind a proxy with ssl interception, which i suspect is related, though i do not have to do anything special on my macos machine for it to work. _eou_",3
+"so, i suspect you are correct. _eou_",3
+"thanks, authorizing manually seems to have worked. _eou_",3
+hye  having this issue right now. _eou_,3
+"thanks, i just saw this message _eou_",3
+it is worst when the most board. _eou_,3
+sorry: it’s worst when keyboard pops up. _eou_,3
+will look into it tomorrow. _eou_,3
+"re the apps, if there is a vote, i would kindly vote to keep them if you have the capacity and inclination. _eou_",3
+there are serious advantages to the app on ios e.g. _eou_,3
+badging and notification settings. _eou_,3
+i also much prefer the macos app. _eou_,3
+i only use the browser when absolutely necessary for things i use often. _eou_,3

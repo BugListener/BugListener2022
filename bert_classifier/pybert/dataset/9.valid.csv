@@ -1,0 +1,218 @@
+sentence,label
+"I am using _version_beta7 but have also tried previous version, it gives me an error: _code_. _eou_",0
+"but, the sequential keras models work fine, yet, the functional one, even the ones from the konduit tutorial, do not work. _eou_",0
+wordvectorserializer is taking too long (2+ hours) to load golve300 dimension file and it errors out finally. _eou_,0
+here's the exception stack _code_. _eou_,0
+"if i move back to beta6, it works. _eou_",0
+this happens only in beta7 and for other glove files as well. _eou_,0
+i tried both _code_ and _code_ both threw the exception _code_. _eou_,0
+"to resolve the numberformatexception, i had to add the wordcount and the dimension, even then it fails subsequently. _eou_",0
+tried _code_ and it is running for hours. _eou_,0
+i do not see any out of memory error. _eou_,0
+it either fails or runs for hours. _eou_,0
+i try to run example using gpu but always get this error: _code_. _eou_,0
+i am facing the following exception when in run dl4j from eclipse _code_. _eou_,0
+", I am getting some jvm crash under specific conditions _code_. _eou_",0
+this code _code_ leads to crash like this _code_ . _eou_,0
+"note that the output of the system out will have the same shapes, not the reduced one that is expected at the first system  feature shape _code_ while my expectation is to have feature shape _code_ at the first row. _eou_",0
+"and also this kind of stuff occurs, not clear what makes it process finished with exit code. _eou_",0
+but before i have a warning like this: _code_. _eou_,0
+"if i use a labelawareiterator to fit the vectorizer, it always yields a npe when i try to use the vectorize method. _eou_",0
+tfidfvectorizer does not pass its labelssource to the labelawareiterator (like it does for the other two types of iterators). _eou_,0
+_code_ that means the labelssource does not get populated during fitting and _code_ expects labelssource to be non-empty... this results in an npe. _eou_,0
+the save model function does not seem to work for this library. _eou_,0
+"i tried code from both the example github library and the video, yet it cannot find the file. _eou_",0
+"I have tried both _code_ _code_, come up with same error: _code_ . _eou_",0
+"i use that command, but there is no difference! _eou_",0
+the crash is _code_ . _eou_,0
+"i ran _code_, but there is no difference. _eou_",0
+when i use the weka gui with this package i will get a error _code_ too . _eou_,0
+"the play method has a while loop and in this loop the ""obs"" variable might not be update, always the initial value. _eou_",0
+always if i use a random in a filesplit the analyzelocal.analyze throws a java.lang.runtimeexception _code_. _eou_,0
+without the random everything works as presumed. _eou_,0
+I am unable to get the keras model loaded in deep learning 4j with beta5 on macos catalina giving fatal runtime error in java. _eou_,0
+the same code works on ubuntu linux with beta5. _eou_,0
+"changing shape does not help, as then i am informed that the shape has to be of length 2. _eou_",0
+"I have made tests, trying to force input shape to be _code_. _eou_",0
+"to no avail, as convolution1dlayer indeed requires a 2d-input. _eou_",0
+we have added all the efficientnet models but t cannot be used as of yet until this pull request is released _issue_. _eou_,0
+we cannot use the snapshot as we are using gradle. _eou_,0
+"_code_ does not work for me, because dropdown does not appear after _code_. _eou_",0
+the method below returns the wrong characters _code_. _eou_,0
+in output i got something like  yv...' _eou_,0
+can anyone assist me with this error _code_ when running appium with testng and maven. _eou_,0
+"ive tried literally every version of java with no luck, _code_. _eou_",0
+it is failing when it tries to initialize a pageobject. _eou_,0
+it works fine when running via intellij testng runner but via the terminal: mvn test. _eou_,0
+"does anyone experiencing issue with appium xcui and ios react native app, in some complex page not all elements are retrieved by appium even if you set the snapshotmaxdepth setting to an higher value than default one? _eou_",0
+"i am facing sudden slwodown issue on android scripts (using wdio with appium) it wont click on element for 20 seconds which was working fine earlier and we have found out that its beacaue of gradientext being used in app code, when i repalced it with regalartext script started working fine. _eou_",0
+my appium server is running and i can access from my code but with appium desktop it is throwing this error _code_ . _eou_,0
+"hi everybody, testing our react native mobile app using appium, we set snapshotmaxdepth capability to 500 for ios to avoid missing accessibilityid issue with rn5, it works. _eou_",0
+"we have another problem, in some complex pages it happens that even if an element is visible its ""visible"" attribute is false, do you have any suggestion to us to handle it? _eou_",0
+"when trying to """"page_class/page"""" complex page it can not list page elements getting timeout error, app written in xamarin.forms. _eou_",0
+when i try to inspect the element with the help of appium inspector it is working fine if i keep the same loactor in the code and trying to run it is showing no such element exception. _eou_,0
+"i tried with appium _version_,_version_,_version_, with ios _version_ and _version_ and i am seeing same issue with all combinations. _eou_",0
+i get this error _code_ after changing chromedriver for appium service. _eou_,0
+the _code_ fails to infer the appropriate signature from the type guard function with overload. _eou_,0
+"it works well elsewhere, but when used as a parameter for _code_, it works not properly. _eou_",0
+"however, it is difficult to understand how the signature of _code_ is inferred in _code_. _eou_",0
+this line: _url_ gives me this error: _url_. _eou_,0
+"thank you, using a function i got this error instead: _code_. _eou_",0
+i got that error on the same line (please note i have changed the arrow function to a function) _url_. _eou_,0
+how can i fix this error property 'data' does not exist on type 'item[]'. _eou_,0
+but i am getting an error in this line _code_. _eou_,0
+tried that but it but getting this error. _eou_,0
+but somehow i am always getting never instead of correct types. _eou_,0
+"a function works as intended but it requires a double callback to make it work, but i think its the same just differently written. _eou_",0
+"my test starts with open application keyword, does it open a new session and for that, the setting does not apply? _eou_",0
+just want share a feedback on appium version _version_ .,0
+"i wasted my 1 full day in investigating the send key on android, tried all means and it did not work. _eou_",0
+i am getting this error while running the application in ie browser. _eou_,0
+do any one stuck while executing command _code_ ? _eou_,0
+"our dockerfile has ""volume /tmp"", but we do not map anything to it. _eou_",0
+but when i try and access it on the exposed port on os x - i get connection refused. _euo_,0
+and about 10% of the time we see a tcp timeout error. _eou_,0
+"any issues regarding _code_ in appium _version_, did anyone face app reset issue when capability is set _code_ ios 13. _eou_",0
+i am not able to understand why it is not able to identify second screen? _eou_,0
+any ideas why my emulator gets hanged after taking screenshot and rest of all test classes get failed. _eou_,0
+the select/option is not even an angular component or directive. _eou_,0
+"canary installs separately but chrome/beta/dev cannot be side loaded afaik, so no, at the moment i do not have a normal install _euo_",0
+it is only updated after leaving the room and coming back. _euo_,0
+"well i did checkout ""h-michael/desktop-update-nw-_version_"" and npm install and added oauth.json credentials but when i run it i only get nw app not a gitter app. _euo_",0
+i get error:_code_. _euo_,0
+"the drive shows up in the settings as ""shared"" in both cases. _euo_",0
+i have faced strange (for me) result of the command _code_ . _euo_,0
+if i import it with import _code_ ; i get the following error when using _code_ :  _code_ .  _eou_,0
+"i found somewhere a suggestion of removing the import statement, which works, but then outputs the following errors : _code_ , but the current file is a module. _eou_",0
+"consider adding an import instead."" so either i have the import and my tests fail, or i don't, and the compiler outputs errors _eou_",0
+i am experimenting with _issue_. _eou_,0
+"what i would like is to create a type that includes all strings except for _code_, i thought something like this would work _code_ so i was expecting an error, but no, it compiles fine. _eou_",0
+also _code_ ; compiles fine. _eou_,0
+"I am writing a query builder thing that recursively intersects types to build the result type, but types nested more than 1 level deep just end up as any _eou",0
+i am facing issue when i try to use gelf logging driver _code_. _eou_,1
+is there any reason **is there any reason that typescript would coerce _eou_,1
+I am trying to run a machine learning model on aws emr _eou_,1
+maybe someone have ideas how to workaround this without running docker-compose as root? _eou_,1
+i am trying to import a keras model built with functional api. _eou_,1
+i need help to submit spark job with deeplearning4j in cluster mode. _eou_,1
+"I am trying to use convolution1dlayer, feeding in indarrays of shape [minibatch, numinputs]_eou_",1
+how can i enter text with _version_-1 second delay _code_? _eou_,1
+i want to convert the number type which is coming from backend to an enum which i have created. _eou_,1
+how can i achieve function a but with b/c styled function or is it  possible ? _eou_,1
+I am trying to visualize the model training. _eou_,1
+", i am trying to use dl4j in eclipse for an eclipse application using osgi. _eou_",1
+is there a way to easily do that with a listener? _eou_,1
+but then how to get old of that window.lptag reference -.- _euo_,1
+what to change to install sdk verson of nw.js not sure as I am new to npm stuff. _euo_,1
+"i did not realize that was a bug, and it was driving me nuts trying to create the community with my github name."" _eou_",1
+is there any reason typescript would coerce a type to any? _eou_,1
+running build: _code_. _eou_,2
+i have an issue that occurred on docker desktop on mac. _eou_,2
+i am using docker 19 community edition. _eou_,2
+this is the code _code_. _eou_,2
+here's how i setup listener:_code_ and this dependency is in my pom.xml: _code_ . _eou_,2
+", i just upgraded from dl4j-beta6 to beta7. _eou_",2
+"I am using jdk 8, windows 10,_version_-beta7. _eou_",2
+i was using  _code_ . _eou_,2
+the glove file i use is glove.6b.300d.txt which is a text file. _eou_,2
+"nd4j-cuda-_version_-platform, version _version_-m_version_ , gpu: quadro m2200 tried _version_ _version_ _version_, always same error. _eou_",2
+i am using mac os and intellij. _eou_,2
+I am using _version_-beta5 rl4j and find that there may be a bug in abstract class policy(_code_). _eou_,2
+"webdriverio, appium, ios driver = xcuitest, adndroid driver = uiautomator2. _eou_",2
+"i am using uiautomator2 and resource-id locator strategy, can somebody suggest any solution ? _eou_",2
+i have installed appium locally. _eou_,2
+playground _url_. _eou_,2
+hi was wondering I am using types for example the items props is wrapped in data object from the api that looks like this _code_. _eou_,2
+i have a problem with cuda _version_ and _version_ (i installed cudnn manually) using snapshots. _eou_,2
+i updated exceptions info with dl4j _version_ new release _issue_. _eou_,2
+(i'm on version _version_ ). _eou_,2
+"it feels like I have been experiencing this for years, but finally got aggravated enough yesterday to reach out. _eou_",3
+I am surprised to see this issue only two weeks old. _eou_,3
+i must have just missed it when i skimmed yesterday. _eou_,3
+it seems like this is isolated to email notifications? _eou_,3
+perhaps copy this not to the email part? _eou_,3
+make the font red? _eou_,3
+i am experiencing issues with the gitter app. _eou_,3
+is there a problem? _eou_,3
+"now it is working again, would appreciate your view on the problem though. _eou_",3
+i was when i was writing about it. _eou_,3
+the messages were live reports. _eou_,3
+just pop open the devtools network tab and put in a filter with _code_ _eou_,3
+"if you need me to do anything because it is a 'local' problem, just ask. _eou_",3
+but I am probably in an opposite timezone from where you are. _eou_,3
+"does anyone know, why i cannot see logs when building the image? _eou_",3
+does anyone have this problem? _eou_,3
+i searched but not found any solution that worked. _eou_,3
+everything was working fine in the previous version. _eou_,3
+it did not work sir. _eou_,3
+what is the best way to resolve this? _eou_,3
+i could configure sudo at container build time to allow user x to run the command you suggested. _eou_,3
+are there any other ways to tackle this? _eou_,3
+can i e.g. specify permissions for individual mounts somehow when starting the container? _eou_,3
+i am trying to fix this from the last 3 days and not able to fix. _eou_,3
+"I am not really sure where else to ask, so i figured I would check here and see if anyone had any ideas. _eou_",3
+I have got options to enable nested virtualization in virtualbox. _eou_,3
+I am not sure what else i can do to make it work _eou_,3
+has anyone ever met this issue? _eou_,3
+hi I am using laravel and docker with mysql _version_ _eou_,3
+hmm ok i will check the docs phpunit I will be back. _eou_,3
+that will print  world to stdout. _eou_,3
+alpine is the image i want to run. _eou_,3
+i am following the same document. _eou_,3
+is there a good way for me to bugcheck this and make sure that i have the appropriate libraries? _eou_,3
+"just to add, I am importing _code_ already even though it is not used directly in my model. _eou_",3
+I am running into a problem when i use cuda for my model with custom dataset. _eou_,3
+so it must be something with my dataset. _eou_,3
+are there some restrictions or gotchas with cuda only? _eou_,3
+figured it out with the help of adam. _eou_,3
+it would be helpful if you clarify this in the documentation here as well _url_. _eou_,3
+it was an issue of using _code_ with gpu. _eou_,3
+i have tried the method mentioned here: _url_. _eou_,3
+thank you very much，it really does _eou_,3
+is there any way to do the same. _eou_,3
+"for more information, see _url_. _eou_",3
+maybe it has something to do with the architecture or something. _eou_,3
+i cannot figure it out. _eou_,3
+there’s a separate api for functional models. _eou_,3
+just trying to understand if there is some regression issue happened in beta7. _eou_,3
+are there any quick fixes available? _eou_,3
+"hi alexei, thanks for the quick response. _eou_",3
+i tried few other methods on the wordvectorserializer. _eou_,3
+"per the commit history, it looks like support for glove was removed. _eou_",3
+question about dl4j-examples with cuda. _eou_,3
+any thoughts on how to chcek it ? _eou_,3
+i believe i should report it. _eou_,3
+_issue_ raised this one. _eou_,3
+i think i found a bug in the tfidfvectorizer and would like to confirm before submitting a pr. _eou_,3
+any help would be appreciated. _eou_,3
+anybody can help me with this error? _eou_,3
+is there any specific solution for that? _eou_,3
+is this a known issue? _eou_,3
+"if yes, please let me know by when the fix will be available. _eou_",3
+any ideas what I am doing wrong? _eou_,3
+"seems to be a bug, as i did a workaround by replacing my convolution1dlayer with simple convolutionlayer with width = 1. _eou_",3
+I am updating wekadeeplearning4j and was wondering when a new release of dl4j will be out. _eou_,3
+any help would be greatly appreciated. _eou_,3
+can someone please help me in this. _eou_,3
+"it happens only in ios (appium xcui), in android (uiautomator2) the same element has the attribute ""visible"" = true. _eou_",3
+i am facing a problem. _eou_,3
+shall i compile it myself if i want to use _version_ -snapshot _eou_,3
+can any help with this? _eou_,3
+any help will be appreciated. _eou_,3
+can someone tell me the reason. _eou_,3
+any idea about how to solved? _eou_,3
+is there anyone who can help me with this? _eou_,3
+i know the order of overload signatures is important. _eou_,3
+that signature should be written in order of specificity and generality. _eou_,3
+and i know that compiler infer the first applicable signature. _eou_,3
+"when a function is passed to a parameter, could you explain how the signature is inferred from the overload of the function? _eou_",3
+ts novice here. _eou_,3
+i do not really get why. _eou_,3
+may someone help me understand and possibly fix it? _eou_,3
+"ok, this seems to fix, i am not quite sure why i have to do this though:_url_ . _eou_",3
+how do i resolve it? _eou_,3
+"hmm, maybe someone can help figure out this? _eou_",3
+anyone here used sinonjs with typescript ? _eou_,3
+"thanks, i guess I will open an issue then  _eou_",3
+"i did not get the reason why, do you have an explanation of why this will not work / a link i can read? _eou_",3
+"sorry, typing on my phone. _eou_",3

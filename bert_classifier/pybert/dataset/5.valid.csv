@@ -1,0 +1,216 @@
+sentence,label
+_url_ mismatches between _url_ and content. _euo_,0
+"risks arising include: chat that is intended to be private, inadvertently posted to a public room (it happened to me a day or so ago). _euo_",0
+tried that... nothing happens _euo_,0
+that is correct - i can see the link cursor but nothing happens on chrome and ie _euo_,0
+_url_ remains cold and empty after ten or more consecutive reloads.yep I am having problem as _issue_ i.e. _euo_,0
+but gitter is still pointing to issues and what not at the old _url_. _euo_,0
+i am stuck on the 'create a set of radio buttons' where I have worte the following code:_code_ please help. _euo_,0
+but from _url_ it redirects back to _url_ without anything new on the page _eou_,0
+looks like there is a slight bug that popped up this weekend with peoples status orb not representing their current state. _euo_,0
+the visual bug is that peoples orb becomes __reen_ and it never goes to yellow when t are inactive _euo_,0
+i constantly get error of not being able to run. _euo_,0
+i run desktop app for a long time but i cannot run it on arch for already a half month _euo_,0
+i also get the error _code_ . _euo_,0
+as for my bug question: for some reason my github integration shows every notification twice. _euo_,0
+i found a bug in the irc gateway that prevents smuxi from working with gitter. _euo_,0
+"i just found out, that if i made an integration with gitlab repo, mentioning and issue number with # actually is redirecting me to github instead of gitlab. _euo_",0
+all i see is this _url_ and the above error  _url_. _euo_,0
+"btw, that error does not happen everytime i switch rooms. _euo_",0
+"since a few days ago, every new message that comes in is never marked as read until i refresh the page (and even then it sometimes does not mark it as read). _euo_",0
+"not sure if it is a bug, but collapse does not collapse all the media embedded, it only closed the last media on the thread. _euo_",0
+almost daily running firefox if i leave gitter running i get an error that a script is not running correctly. _euo_,0
+it is the second time that this happens with me. _euo_,0
+how this is even possibel that docker uses 100gb ? _euo_,0
+i was watching the free space decreasing. _euo_,0
+"does not make any sense, because after i restart my computer, the disk free space keeps decreasing _euo_",0
+"my problem is that i can php artisan migrate but when i run _code_, i cannot run my test in laravel. _eou_",0
+"if i ping ""php"" from inside the nginx container it tells me it is pinging the ip _version_ , but the ip of the php container is _version_ _euo_",0
+"if i replace ""php"" with _version_ in the nginx config for the f_pass it works. _euo_",0
+"but I am getting some errors, like:_code_. _eou_",0
+"i just ran docker-composer up on this: _code_ and it links through ok (assuming you set up the nginx/php confs ok) - but the php:900 part appears to be working.', '_code_ _euo_",0
+and I am getting the error _code_ even though the model works in intellij. _eou_,0
+"the problem is that when i scale an app, i can validate that the hosts behind the vip are updated but my client keeps calling the same addresses.i tried a lot of things like changing java dns cache ttlanyone ever had something like that ? _euo_",0
+i use start.sh and it auto genrate new veth pair network. _euo_,0
+but t are both in the same network as i can see in the inspect network overlay:  _url_ _euo_,0
+"i thought at first it could be the firewall the problem so what i did is to flush iptables in both hosts, but still nothing. _euo_",0
+unless the update to _version_ somehow broke that sharing but did not reflect it in the ui. _euo_,0
+and getting this error: _code_. _eou_,0
+"ok, but regardless of that, running the command to map a folder does not work on _version_, but uninstalling that and reinstalling _version_ and running the same command worked flawlessly, as it had been before i installed the update for _version_ today. _euo_",0
+and cannot seem to get it to work . _euo_,0
+"when create one with local-persist driver and map it to some directory in user home, app/ for example app/ has permissions 775 and 100:100. _euo_",0
+"container change permissions of app/ to 755 0:0 (e.g.', 'root) _euo_",0
+"if i simply re-run container with docker stop-start, all fine. _euo_",0
+with shared folders never see the same _euo_,0
+looks like nginx during install chown and chmod _code_ (app/ on host) _euo_,0
+"i have them in separate containers, with a link from the nginx container to the php one called ""php"" in the nginx config i have a fastcgi_pass to ""php:900"", which fails with a bad gateway ""connection refused"". _euo_",0
+why is the link pointing to the wrong ip? _euo_,0
+"somehow, when i change permissions once, it is kept on my local docker but not on aws. _euo_",0
+i install docker on linux mint and after some hours the disk is full. _euo_,0
+"dont know why this happens, but i found out one thing, that also happens these two times. _euo_",0
+i lost all my system backups (i use timeshift). _euo_,0
+"the last time i had to reinstall my system, because i couldnt even start the system. _euo_",0
+"this time, when i realise i had just 6gb left, i deleted some stuff here to have at least 20gb free, then disconnect from internet, restart, delete all docker images (yes, i installed yesterday and i downloaded 4 images) then uninstall docker, and the magic happens. _euo_",0
+"i use rancher and using caddy server as container and cannot forward to my wordpress container, i tried to ping the wordpress container and i gives answer, but still cant proxy to my wordpress.. you could help me figure out my problem? _euo_",0
+"i linked both, wordpress and caddy server.. and i even can ping them.. thats the weird path _euo_",0
+it seems like caddy server does not get any request from outside _euo_,0
+since caddy server didnt write anything to log _euo_,0
+is anyone having trouble starting docker on the latest mint? _euo_,0
+but when i check on both the host and the container using date and hwclock t are both identical and correct _euo_,0
+"i restart my pc and i can get an veth pair, but it generate many veth pairs settings in the control pannel. _euo_",0
+(default) creating a new host-only adapter produced an error: _code_ _euo_,0
+but i am getting this error: _code_ how to fix? _euo_,0
+"i have a weird problem, services inside of the same network cannot communicate, i see the following error: _code_ . _euo_",0
+"the problem i have is the following, when i ping the service in the manager node from the worker node i get the following: _code_ _euo_",0
+"i used to do something _code_, and while that option allows persistent changes between container launches, it does not map to the folder like it did in the previous version. _euo_",0
+"the fact is, the same command that works with _version_ does not work with _version_ _euo_",0
+"the strange thing is that when i use docker scale command, it is assumed as an workers image update when i want to rollback it just scales the service in the swarm down. _euo_",0
+"so the import isnt working on v3, it is a bug, and will be fixed, right? _euo_",0
+it looks like image ids (as reported by _code_ ) are not stable between systems. _euo_,0
+"does anyone know, why i cannot see logs when building the image? _euo_",0
+"but when i re-create container (change nginx config for example) with docker _code_ , permissions to app/ (only for app/ ) 755 0:0 again. _euo_",0
+after latest update docker do not start anymore on windows _code_ . _euo_,0
+I am trying to compare mkl vs openblas performance in my case _euo_,0
+in my use case openblas is 3-4 times faster than mkl _euo_,0
+investigating why a keras (theano backend) model and the (supposed to be) equivalent dl4j model imported using your new import functionality does not agree on class probabilities for a single validation image. _euo_,0
+adding false to _code_  gives me the same result. _euo_,0
+there is the same error in the deeplearning4j-modelimport project:_code_. _euo_,0
+switching to _version_ and works perfect _euo_,0
+the other thing that i noticed is standardscaler which is deprecated _euo_,0
+"so when we evaluate the model, we can easily print the input/expected output/actual output: _code_. _euo_",0
+perhaps this is a bug _code_ ? _euo_,0
+"i wonder whether there may be a small bug in spark:_code_  in the way the parameters are flatten/deflatten or re-injected in the network, but I am not sure enough to fill a bug report. _euo_",0
+"because my dbn was training fine on 1 thread, but params were wrong with this spark approach. _euo_",0
+"then, i replaced with my own flattening/deflattening of the parameters, and now it is training fine. _euo_",0
+"firstly, _url_ in line 114 _code_  here is not correct. _euo_",0
+the original code from google(c language) shows _code_ the meaning is very different. _euo_,0
+"also, i tried the spark version of word2vec, it seems problem is more serious, _url_ the biggest bug is line 151, _code_  here should be _code  instead of  _code_. _euo_",0
+"also, in line 114 _code_ here should not always create random vectors. _euo_",0
+also some other parts of spark version of word2vec are not very ideal. _euo_,0
+"the class baseoutputlayer, 425 line, bug: _code_ _euo_",0
+"i am trying to import numpy arrays to nd4j, how can i do that? _eou_",1
+i am trying to use tfgraphmapper to import from tf. _eou_,1
+i tried to run gloveexample in dl4j-examples. _eou_,1
+i am trying to import a keras model into dl4j. _eou_,1
+in my experiment i an trying to get rnntimestep to work with imported model. _eou_,1
+does anybody succeed in running any example provided with rl4j on a 64-bit ubuntu running in vmware player? _eou_,1
+i am trying to figure out whether i have the most recent version of published types. _euo_,1
+and I am trying to figure out whether i should update first or if I am already on latest _euo_,1
+"i wish we could express class properties as readable on the outside, writable on the inside _issue_, instead of having to write _code_. _euo_",1
+we would be able to write something shorter like  _code_. _euo_,1
+i try to create typings for such a library  . _euo_,1
+is there a way to change the logo image for a community ? _euo_,1
+how to run gitter app on linux? _euo_,1
+i have a simple java application which tries to call another application. _euo_,1
+i am trying to run docker with the elasticsearch image: elasticsearch:_version_ _euo_,1
+_url_ i have a thing which i want to extract an type field type and use it as type for something else. _eou_,1
+I am using the evaluator to generate the f1 scores _code_. _eou_,2
+I am using deeplearning4j-cuda-_version_ for the gpu. _eou_,2
+I am running training in multiple threads. _eou_,2
+I am running ubuntu _version_ and cuda version _version_ on a 1080ti _eou_,2
+I am using a 980ti on win10-64 _eou_,2
+here is the pom _url_. _eou_,2
+"as you can see, i have dl4j-core and nd4j-native-backend, and i added sl4j-nop for the logging configuration of sl4j. _eou_",2
+i then added the dependencies to the target definition and the manifest.mf _url_ _eou_,2
+code: _url_ hdfs having pre-processed data: _url_ _url_. _eou_,2
+i created an uber jar and _code_ in maven runner. _eou_,2
+i create batch with _code_. _eou_,2
+relevant _code_ and contents of _code_: _url_ . _eou_,2
+this is running on ubuntu _version_ on a p2.xlarge instance on aws. _eou_,2
+I am using _version_-beta and running on a 1080 ti. _eou_,2
+i am doing _code_ and loading the model like this _code_. _eou_,2
+my pom.xml correctly list _version_-beta4 for both deeplearning4j-core and nd4j-native-platform. _eou_,2
+i am using openjdk 11 on ubuntu _version_ with maven _version_ _eou_,2
+i run the examples within intellij idea _eou_,2
+"hi again, i switched my ide eclipse from intellij to use deeplearning ui dependencies correctly. _eou_",2
+my pom.xml is _url_ sdk : _version_ _eou_,2
+"- also, i think --link is deprecated? _euo_",3
+no one can help me out? _euo_,3
+gitter dont have a rancher channel _euo_,3
+"hmm, telnet does not exist _euo_",3
+what can be the reason? _euo_,3
+i think it is a systemd issue _euo_,3
+", i have an issue with swarm. _euo_",3
+i use swarm for my deployment through a network overlay. _euo_,3
+I have got an interesting issue... _euo_,3
+is that a issue or what can i do to fix it? _euo_,3
+"i found what was the error... there is a bug on linux using the version _version_ of elasticsearch, fixed on _version_ ops, _version_ _euo_",3
+this is the issue: _issue_ _euo_,3
+so i just debugged the problem i have in my docker swarm. _euo_,3
+my swarm consists of a manager node and a worker node. _euo_,3
+"nevermind, i just restarted the service in both hosts and now it works. _euo_",3
+i think there is a bug with docker overlay network _euo_,3
+"_issue_ I have come to believe it is a bug, so I have registered it as an issue. _euo_",3
+it was already shared. _euo_,3
+I am fairly certain that it is a bug in docker. _euo_,3
+does that not strongly suggest that it is a bug with docker? _euo_,3
+"I have never needed to configure anything regarding hyper-v, etc. _euo_",3
+other than granting docker access to enable it. _euo_,3
+so I am not sure how that stuff works. _euo_,3
+i think I will just keep using _version_ until t fix it. _euo_,3
+the issue i linked above is the issue i created on github :-) _euo_,3
+"i'am playing with v3, too much text files and command lines for us windows users :p _euo_",3
+"i mean, it is something that will be fixed and not something that was deprecated, correct? _euo_",3
+are the digests supposed to be consistent between systems? _euo_,3
+"(unfortunately, it seems a bug even in the latest docker client version prevents making use of them: _issue_ _euo_",3
+i have a question with named volumes. _euo_,3
+copy my files inside. _euo_,3
+all good and works. _euo_,3
+but not sure that is nginx image bug _euo_,3
+"no, my volume was untouched . _euo_",3
+"i do not use compose, if you asked about it. _euo_",3
+I have open issue at docker-nginx on github. _euo_,3
+"no, with alpine image app/ mounted correctly, 775 100:100. _euo_",3
+"i dont know if it is some kind of conflit, but i think i have to report this, because it is a shame. _euo_",3
+I am running docker containers and the application is reporting significant time skew. _euo_,3
+i thought someone at dl4j would like to know:  the predictgendertrain  dl4j example frequently does not learn/converge (~50% error through all epochs). _euo_,3
+"sorry, I am not that sophisticated with git yet. _euo_",3
+"ok, wow, i did it as a pull request. _euo_",3
+"thanks for giving me a push, adam. i mean a pull. _euo_",3
+there was this bug with _code_ have you guys had a chance to fix it in master? _euo_,3
+so when i build from source - does the build also discover mkl automatically and link against it unconditionally? _euo_,3
+does this happen when building libnd4j or nd4j? _euo_,3
+could these be relevant for the differing model evaluations (i am ignoring training for now). _euo_,3
+change the keras network or dl4j network after import? _euo_,3
+"uhm,  this should work right? _euo_",3
+I will create an issue _euo_,3
+"I have debugged it, and it really seems like bugs _euo_",3
+", sorry for interrupting you, but i got a quick question, wondering if someone can answer it . _euo_",3
+"is this intentional, and if so, why _code_? _euo_",3
+ye but you might prefer it if i report it somewhere so you can organize your to-do-list or whatever _euo_,3
+"found it, line 238 in booleanindexing in case you have not yet _euo_",3
+i also try to use the git source. _euo_,3
+how to solve this question? _euo_,3
+is there a way to regulate that? _euo_,3
+"i used early stopping for the trainning, yes _euo_",3
+i verified each step and my training data path seems ok _euo_,3
+yes..i have two folders. _euo_,3
+i like how is formatting :d _euo_,3
+_url_ _euo_,3
+so ...i will changed to ? _euo_,3
+could this change my results ? _euo_,3
+i do not know what to follow. _euo_,3
+to spend time to check if the latest version of dl4j has the native libraries fixed for linux or to keep my _version_ version and investigate the part with java.library.path _euo_,3
+we have tried dl4j with word embedding (word2vec). _euo_,3
+we found quite convenient to put the original words as metadata in the input dataset. _euo_,3
+i hope this is what metadata are for. _euo_,3
+"if so, it would be good to patch the basedatafetcher with the missing _code_ . _euo_",3
+"also, it would be good to have metadata in the dl4j samples. _euo_",3
+"thanks for the good work, dl4j people! _euo_",3
+done : _issue_ _euo_,3
+"I have not been able to dig into the original code to spot the issue, if there is any, but well, this is just to let you know in case you hear about that later on... _euo_",3
+"anyway, plz do not loose time for now about that, it is probably just my fault :-) and thanks for these examples ! _euo_",3
+I have made a gist with my proposed modifications: _url_ . _euo_,3
+is it possible it got missed? _euo_,3
+"recently i tried word2vec from dl4j, but i found some bugs! _euo_",3
+"and i also do the experiment, it is really not correct. _euo_",3
+"anyway, i think spark in-built word2vec (scala) is also not good. _euo_",3
+because it just use sum of local lookup_table to get global lookup_table directly. _euo_,3
+i think it should use mean or some other ways. _euo_,3
+so that is why i study these different version of word2vec. _euo_,3
+it looks like a bug _euo_,3
+_issue_ _euo_,3
+I am not 100% sure if it crashes with oracle jdk as well. _euo_,3
+i can try oracle locally and let you know in a few hours (takes quite a while which is why i wanted to parallelize). _euo_,3
+the other big difference in that environment vs. _euo_,3
+my laptop is # of cores. _euo_,3

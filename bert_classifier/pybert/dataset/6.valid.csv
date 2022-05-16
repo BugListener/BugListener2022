@@ -1,0 +1,216 @@
+sentence,label
+it should be obvious here : _code_  //line 425 _euo_,0
+but it can work in regression. _euo_,0
+"gist cannot use in china, can report a bug? _euo_",0
+"when i run the model with a learning rate of _version_, it has a mse of _version_e+00 and the graph is nearly perfect. _euo_",0
+"when i run the model with a learning rate of _version_, it has a slight lower mse of _version_e-01. _euo_",0
+no t are not the loss of the model. _euo_,0
+it is what is printed by the last line in this segment of code _code_. _euo_,0
+both maes are extremely close(_version_ apart). _euo_,0
+"the question is ""if it has a lower mse, why is it farther from the actual result?"" _euo_",0
+is the bug simply cause _code_  to incorrectly calculate the values? _euo_,0
+when my pc restart and if i open the preferences app and click on restart i got this: _code_ any idea on what that means? _euo_,0
+when importing the network config and weights in dl4j i get the following warnings _url_. _euo_,0
+"fyi: when it does not converge, it repeatedly gets:  _code_ errors. _euo_",0
+"hm, does not quite work. _euo_",0
+works like this though _code_ java main _euo_,0
+"it works on neither cuda nor native, both with different exception messages _euo_",0
+"if i run the following line of code on a pretty large nd4j array (no dl4j involved) with tons of negative infinity values in it, a lot of messages saying ""number: -infinity"" get logged. _euo_",0
+the error information is :_code_. _euo_,0
+"I have realized that my /tmp folder gets filled with tons of 'restorexx' files, that i guess come from the use of the _code_ function. _euo_",0
+i still do not know why i get this: _code_  _euo_,0
+"when i use _code_ , the label was converted into 1d, my timestep = 1 . _euo_",0
+the crashing runs were a spark job on emr and t use openjdk. _euo_,0
+"um, not sure if this really is an issue or just a small bug, but i was running the graveslstmcharmodellingexample, and while it was running it prints out the samples of text from shakespears work, but it seems to also include the headers or footers of the downloaded file. _euo_",0
+"when i run the dbn fullexample by use intellij idea, and i have the following problem a fatal error has been detected by the java runtime environment: _code_. _euo_",0
+i try the following command in terminal _code_ then rerun the program but the problem not solved . _euo_,0
+anyone know why appium _version_ will not work with my android emulator? _euo_,0
+"the problem i faced with protractor is, as soon as it invokes app, it immediately tries to inject protractor javascript into webview. _euo_",0
+"in cases of splash screen or 1st screen as native screen, injection of protractor script fails due to absence of any webview. _euo_",0
+we have about 300 jbehave tests using appium and t are taking near 7 hours to complete and this is just too much. _euo_,0
+"i am writing multiple test , so while starting second test it gives me this _code_ _euo_",0
+problem getting session data for driver type androiddriver; does it implement 'get driverdata'? _euo_,0
+(warning: the server did not provide any stacktrace information)do i need to  instantiate again _euo_,0
+"does not work , still closes the app after first testcase method _euo_",0
+is appium _version_ supposed to be able to run multiple android emulators concurrently assuming i use separate appium server instances? _euo_,0
+"for example, one server instance is supposed to handle one emulator but then it telnets into the other emulator or something. _euo_",0
+"maybe that is not even it, but it tries to do something with both emulators. _euo_",0
+"despite using different server ports, bootstrap ports, chrome driver ports, even udid (whether it makes a difference or not) not just that. _euo_",0
+i actually cannot even reliably run tests on two different emulators sequentially. _euo_,0
+"sometimes works, sometimes not. _euo_",0
+"when i run my tests, i have emulators with udid ""emulator-554"" and ""emulator-556"". _euo_",0
+"i launched one emulator (android _version_) and adb devices gave me ""emulator-554"". _euo_",0
+then i quit the emulator and launched another one (android _version_). _euo_,0
+"this time,adb devicesalso gave me ""emulator-554"". _euo_",0
+"if i then start up the first emulator again (android _version_), its udid appears to be ""emulator-556"". _euo_",0
+"not able to run appium test in ios real device with os _version_, appium version _version_, xcode 9. anything to install. _euo_",0
+also i able to run appium in ios simulator by installing  'brew install carthage' _euo_,0
+I am using appium _version_ on real ios 9 device and the app launch twice for the appium session. _euo_,0
+I am using appium _version_ on real ios 9 deviceand the app launch twice for the appium session is this the expected _euo_,0
+"it happens all the time, even after just a few tests, and i need to reboot the tested device and it is a pain in the ass to do this all the time. _euo_",0
+_code_ plz help me solve this error. _euo_,0
+_code_ i got this error while trying to automate an hybrid app. _euo_,0
+when i am running my appium server finally i am getting this error: error: _code_ _euo_,0
+can anyone say me why appium _version_ with uiautomator2 works so slowly? _euo_,0
+"with appium _version_ it was so faster, but was ploblems with unable to create a new remote session. _euo_",0
+original error: an unknown server-side error occurred while processing the command. _euo_,0
+original error: could not proxy command to remote server. _euo_,0
+original error: error: read econnreset. _euo_,0
+"in the latest version of appium (_version_), i am unable to search an element via ui automator selector (android). _euo_",0
+i tried to chain moveto actions (see below) and then call myaction.release.perform. _euo_,0
+simulating drawing a line from a-->b works as expected. _euo_,0
+i am not able to download and install appium in my pc. _euo_,0
+some warning are coming _code_ like these . _euo_,0
+just notice that this problem appears only when i sudo. _euo_,0
+"can anybody here can confirm my assumption that appium _version_ has a bug with ""/timeouts"" endpoint on ios , i see the following error: _code_ . _euo_",0
+"we are using capybara and when we get the seleniuim element from the capybara element and  _code_ the request to endpoint fails with methodnotyetimplemented. i am using the latest ruby bindings and appium _version_, were these changed as part of w3c compliance. _euo_",0
+someone can explain why the instances of _code_ class are created here . _euo_,0
+"seems to work great, but one out of say 20 runs it misses a key on android any reasons why this would happen? _euo_",0
+"i was using angular-cli to do aot, then realized that it cannot be trusted yet _euo_",0
+"_code_ is doing a lot of work, and hiding a lot of detail, such as handling of scss files. _euo_",0
+"i cannot easily do an aot build with ngc, as suggested here: _url_ . _euo_",0
+and _code_ was succeeding when i had not specified a main.ts with ng factory bootstrap. _euo_,0
+uncaught (in promise): error: loading chunk _euo_,0
+"10 failed only seeing it on ie9, works on everything else as far as i know. _euo_",0
+its still set to position: absolute. _euo_,0
+but what i dont understand is why jasmine thinks the position is a blank string _code_ ? _euo_,0
+does not seem right to me that it would be blank. _euo_,0
+"when i remove the positioning, the test passes. _euo_",0
+having to do this kind sucks : _code_ . _euo_,0
+the issue is that if i put some code to init the connection in my index.html file then it works fine  _euo_,0
+_url_ and i just did it in a plunkr for that and it worked fine i do not see what local stuff I am running could break this _euo_,0
+i cannot catch an error because there is no catch after the try in zone.js code. _euo_,0
+i want to catch an error in my application but that piece of code is not allowing me  _code_ . _euo_,0
+"i have a problem with a form validator directive that i created, it seems to not get executed _code_ the validator looks as follows: _code_. _euo_",0
+also i noticed that angular does not error out when i add an unknown attribute to a tag in my template. _euo_,0
+but somehow when i start sending input the items will show up before the welcome message. _euo_,0
+"and yet still includes phrases such as ""we'll feed the observable directly into our template using the asyncpipe, which will handle unsubscribing from the observable for us when the component is destroyed"" or ""the router offers a snapshot alternative that gives us the initial value of the route parameters."" _euo_",0
+but the removal of any reference about that (unlike previously) would indicate that unsubscribing ondestroy is no longer necessary _euo_,0
+but the graph with the model having a learning rate of _version_ is worse. _euo_,0
+works great everywhere except ie. _euo_,0
+"okay gentlemen,  we have a button that does not get enabled until certain required fields are not ng-invalid and not ng-pristine.. _euo_",0
+I am using docker _version_ and expecting to find a content-based hash in metadata in my local repo that i can compare with others' hashes of the same image to ensure we are using the same version. _euo_,1
+I am trying to set up a php <-> nginx environment. _euo_,1
+is there a way to set folder ownership on mounted volume? _euo_,1
+can anyone tell me how to map a local folder into docker in the latest version? _euo_,1
+im trying to replace my brew docker instance with a dockerized version - i can start the container  _euo_,1
+i would expect the graph to be about the same or slightly better due to the lower mse  _euo_,1
+is there an env variable that i can use to specify which blas to use (mkl vs openblas)? _euo_,1
+I am trying to run docker inside docker and mounting the _code_ socket. _eou_,1
+_code_ to get a boolean matrix by element wise comparison to a scalar _euo_,1
+"i am trting to load a saved keras model, and the backend is tensorflow. _euo_",1
+I am trying to run docker within virtualbox for demonstration purposes - showing how to set up a dev environment in different operating systems. _eou_,1
+my initial idea was to run appium on docker on cloud machines for android  _euo_,1
+my goal is to actually speed up the test execution by parallelizing the execution of a same test suite across multiple appium servers. _euo_,1
+i try to set the udid to something random so maybe that is the problem. _euo_,1
+"i can try to use the avdargs capability to pass the ""-port"" parameter to the emulator. _euo_",1
+does anyone know if it is possible to simulate drawing shapes via appium's touchactions. _euo_,1
+i am mainly including: _code_. _eou_,2
+i am in scala _version_ and spark _version_ . _eou_,2
+"this is a reduced example, in real world code the first argument is too complex to get manual annotation _euo_",2
+ts file in question _code_ . _euo_,2
+i am using typescirpt version _version_ . _euo_,2
+here is a more concise example:_code_. _euo_,2
+i have the import like: _code_ _euo_,2
+"i am using the latest ruby bindings and appium _version_, were these changed as part of w3c compliance. _euo_",2
+I am on chrome; not using gitter.next _euo_,2
+click on the big version of it in the header when you are in a room in that community _euo_,2
+"chrome 50, windows 10, so just through the browser. _euo_",2
+my docker on win10 has wired problem _euo_,2
+I am running docker on my windows machine. _euo_,2
+i use docker on macos _code_. _euo_,2
+then I have run new container with nginx:latest with this new volume as _code_  _euo_,2
+i created my first service inside of my overlay network (called mynetwork) and constrained on the manager node. _euo_,2
+"then, i created another service that all it does is to ping the service in the manager node, so i constrained it in the worker node and also joined to the overlay network. _euo_",2
+I have change permissions to 775 100:100 again recursively. _euo_,2
+this is workaround for described situation _code_ . _euo_,2
+i have only 2 (each hyperthreaded) but the spark machines have 8. _euo_,3
+wonder if that just makes it easier to trigger this. _euo_,3
+it seems to have just passed the turing test :) _euo_,3
+will file bug on nd4j then. _euo_,3
+I will give that a try for my actual use case. _euo_,3
+will try to reproduce on my laptop first. _euo_,3
+that'll take a few hours. _euo_,3
+_version_ learning rate:_url_. _euo_,3
+_version_ learning rate:_url_ i was looking into the rnn regression example and i am a little confused by one of the results i got. _euo_,3
+the model reports on the mse of the test dataset. _euo_,3
+"this just does not seem right to me, can anyone explain it? _euo_",3
+"i just thought a lower mse meant a better fit of the data, and i do not understand why that is not true. _euo_",3
+t are the mse when the model is evaluated on the test data. _euo_,3
+i believe that these mse numbers should directly correlate to performance on the test dataset. _euo_,3
+but t are same trend. _euo_,3
+"yes t are collected on the scaled output, _euo_",3
+could that be causing the issue? _euo_,3
+"okay, any idea why the mse is lower with a worse result? _euo_",3
+want me to report it? _euo_,3
+also what do you mean by verify with the gui? _euo_,3
+sounds good with me. _euo_,3
+i will file it. _euo_,3
+"its not the biggest issue or bug in the world, but i though i would mension it. _euo_",3
+what should i do to solve it? _euo_,3
+"ok , i will do _euo_",3
+"okay, because it throws exceptions. _euo_",3
+for that to work we had to override the _code_ as it did not retain the metadatas. _euo_,3
+"yes its not i have been trying to firgure out what is wrong, it works on android device . _euo_",3
+what do u get in the server log? _euo_,3
+for ios i did not come up with anything other than handling multiple machines devices myself or paying for a solution like saucelabs. _euo_,3
+has anyone solved this in another way and can share how you are doing it? _euo_,3
+"this looks good, but it seems to solve the issue of running the same tests across multiple different devices. _euo_",3
+"btw, does this look reasonable to you guys? _euo_",3
+thanks for your inputs! _euo_,3
+did the parallel framework work with ios 10 ? _euo_,3
+"all these problems lead me to think that appium is not meant to support it, even through i have read various places that one can do it anyway. _euo_",3
+is not -u the same as --udid ? _euo_,3
+how do i know what to tell appium? _euo_,3
+or does the parameter set the udid in the emulator as well? _euo_,3
+not sure what that appium ib is so i will check that out. _euo_,3
+"maybe i could just put the udid inside my ""default-capabilities.json"" file? _euo_",3
+i just do not know what/who decides what the udid of the emulator will be. _euo_,3
+if it is appium then maybe it will work. _euo_,3
+so maybe it is set when i create the avd then _euo_,3
+okay i will try :d _euo_,3
+"thank you, hardik! _euo_",3
+i will be right back. _euo_,3
+need to switch from windows to macos where i do the development/testing. _euo_,3
+i do not think it worked out the way i expected. _euo_,3
+i do not know but maybe this is a problem for appium? _euo_,3
+i have an idea. _euo_,3
+someone know what is it? _euo_,3
+set the console port number for this emulator instance to <port>. _euo_,3
+"the console port number must be an even integer between 554 and 5584, inclusive. _euo_",3
+"<port>+1 must also be free and will be reserved for adb."" that may make the udid consistent at least. _euo_",3
+"in the end, i decided to create an issue on github: _issue_ _euo_",3
+is anyone else facing this issue: _issue_ . _euo_,3
+is this the expected behaviour? _euo_,3
+i only call 'launch' once in my appium client _euo_,3
+does anyone knows a solution for the too many instances of this service are already running error. _euo_,3
+or nobody here is using appium _version_+ because it is actually unusable _euo_,3
+with all the bugs and things not working _euo_,3
+anyone updated to the new itunes? _euo_,3
+i have a suspicion its broke appium  ability to talk to safari on real devices _euo_,3
+"i haven't, its knocking on the door _euo_",3
+is this all on the same machine? _euo_,3
+econnrefused suggests something could not reach something else on the network . _euo_,3
+do we have to do any configuration in appium? _euo_,3
+apart from selecting the folder of apk and device name etc. ? _euo_,3
+but i will add those capabilities from you as well and try. _euo_,3
+what is the purpose of this line ? _euo_,3
+please check the server log for more details. _euo_,3
+"and i read what in _version_ this bug will be fixed, but now in some tests i have the same problem can you say me what i do wrong? _euo_",3
+is this a known bug by any chance? _euo_,3
+thanks for the reply. _euo_,3
+so the thinking is something like below should work _code_? _euo_,3
+"however, I would like to move from a-->n without releasing finger _euo_",3
+in case you did not see my original post (see below). _euo_,3
+thanks  I will report a bug as looks like this is not working _euo_,3
+"all, please help me.. _euo_",3
+i m very new to appium. _euo_,3
+i tried this link .. _euo_,3
+does somebody know if this issue _issue_ got actually fixed on version _version_? _euo_,3
+"a comment there says that the fix was going to be applied on next version, which by the time of the comment should be _version_, but I am still experiencing the same issue on the latest version _euo_",3
+i know this is probably bad practice but i wanted to post an issue here . _euo_,3
+"the reason is because i do not know if it is in uiautomator2, appium, or android iteself, either way it is a pretty bad bug imho. _euo_",3
+"however, it also could be a ""do this"" _issue_. _euo_",3
+i will start writing up the bug if no one feels it rings a bell. _euo_,3
+"however, i wanted to make sure as it seems like it is a pretty large issue for anyone working with touch targets or coordinate extraction. _euo_",3
+i think it implementation fires this bug _issue_ _euo_,3

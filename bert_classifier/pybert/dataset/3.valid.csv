@@ -1,0 +1,217 @@
+sentence,label
+now all of my containers and images are gone. _eou_,0
+i tried restarting the service to no avail. _eou_,0
+i tried re-upping the containers but it tells me there is no space left on the device (there certainly is). _eou_,0
+"looking in the docker settings dialog, it says that my disk image size is 60gb/80gb. _eou_",0
+using _code_ and _code_ does nothing and saves 0b. _eou_,0
+using docker desktop on w10 pro i noticed that my containers time is wrong. _eou_,0
+date in the container reports thu feb 13 22:43:36 utc 2020 _eou_,0
+"_url_docker attempts to crash all below pid 1 on the host if a file with windows line-endings is in the entrypoint (be careful, this kills my xsession and probably more on current arch + plasma): _url_  _eou_",0
+when trying do _code_ it does not work while the same command works well if it is c instead of m. any leads will be helpful _eou_,0
+"while mounting its data to file system am facing an error, docker command used _code_ and error is: [<-code>]. _eou_",0
+when using _code_ with empty parameter or empty string no build cache is used. _eou_,0
+"now a weird thing is happening, if i try to join container c1 to any of the external docker networks, i get a socket timeout exception (the container c1 joins the external network, i can see this using docker inspect but my thread just keeps on waiting). _eou_",0
+but if i join c1 to internal docker networks everything works fine. _eou_,0
+"please note that this only happens with container c1 (in which the program logic is executing), all other containers which are created in my program logic are able to join external/internal networks without any exception. _eou_",0
+i have tried increasing the read timeout and connection timeout of docker client to much higher values than the default ones but i still get the same error. _eou_,0
+"i was using spotify docker client, i also tried using docker-java client, i also tried changing my docker versions but nothing is working so far. _eou_",0
+i can run docker-compose w/o problem in my home directory. _eou_,0
+"but i can not run docker-compose in any directory outside the $home, i am getting cannot find a suitable configuration ... but the docker-compose.yml is there and own by the user. _eou_",0
+running _code_ i get error: _code_. _eou_,0
+"I have tried chwon -r, chmod, running npm install after user: node but no matter all of that, i keep getting inside the container that almost all folder are owned by node except node_modules which as you imagine would result in npm install eacess permission errors _eou_",0
+everything is fine up until run yarn --cwd web build. _eou_,0
+"I am getting error command ""build"" not found. _eou_",0
+"it throws me error ""key exchange was not finished, connection is closed."" _eou_",0
+i verified that public key of slave or agent is present in master known_hosts file ..also when i do ssh from master with strictly host checking enabled it is working ...only during launching via jenkins it is throwing above error. _eou_,0
+normally ng serve (using angular) works fine but when i do it through compose the client is unreachable from the browser. _eou_,0
+previously i tried running with _code_ instead of _version_ in ports on compose but it also did not work. _eou_,0
+when i execute kitematic in docker i have this message _code_. _eou_,0
+issue is that same configration is working fine on other system like ubuntu _version_ and mac but not in ubuntu _version_  _eou_,0
+i tryed but not working _eou_,0
+"agan not working with “5432:5432"" _eou_",0
+"i can use curl to successfully call /container/create, but the same post from my rust code yields a 500 error (eof). _eou_",0
+"i assumed it was just my code, but when i use socat to redirect a tcp port to the unix socket, the exact same rust code works fine. _eou_",0
+does anyone know (or have a good place to start looking) for why the same code would work with the tcp port but not the unix socket? _eou_,0
+i cound't log docker on windows power shell _code_. _eou_,0
+i tried but coudn't _eou_,0
+my meteor application takes a lot of time to build inside a container in a production environment. _eou_,0
+without docker it is pretty fast around 5-7 minutes _eou_,0
+so on win 10 i did a docker swarm inint and it gave me _code_. _eou_,0
+i copied this to ubuntu machine and the response was _code_ . _eou_,0
+i coudn't do a telnet even from my win10 mchine or even ping it. _eou_,0
+the issue is that i cannot actually seem to connect to the sentinel. _eou_,0
+have tried many of them and cannot seem to get them working. _eou_,0
+"for someone reason it hangs pushing to the registry, i have logged in and restarted the docker service but with no luck. _eou_",0
+"my containers cannot comunicate between them on overlay network, if t are deployed on the same host there is no problem, but on different host t just will not comunicate, i have opened all necessary ports on all the hosts, t are joining the overlay network and show as peers, t are showing on the gossip service. _eou_",0
+but if i try to curl a service or ping a service name it just times out. _eou_,0
+"but i got the error: expected rank 3 labels array, got label array with shape... is this in cause of _issue_? _eou_",0
+ok found one step: _code_ but now it has trouble on the back propagation on the embedding sequence layer. _eou_,0
+when i run the code in local mode with all my input images in local directory and spark master as local[*] i get 80% accuracy and prediction looks very good. _eou_,0
+"but when i run the exact same code with the exact same input images and parameters, i consistency get 33% accuracy (i have 3 image classes). _eou_",0
+any help explain why the results are different between local and spark based run. _eou_,0
+"when i use this libraries _code_ my programm work correctly, but if i use _version_-beta4 i got this error: _code_. _eou_",0
+here is complete error message: _code_. _eou_,0
+the cpu load and until got very high when using 20 threads to call it. _eou_,0
+the issue is too high cpu usage and load. _eou_,0
+and got an exception as: _code_. _eou_,0
+_code_ the exception thrown by sentence: _code_ _eou_,0
+"when i generate sequences of numbers, the generated numbers are not the same even though the seed and position is the same (i literally call setseed(0) right before generating them. _eou_",0
+"for example, here are some outputs: run 1: _code_ run 2: _code_. _eou_",0
+"i cannot reproduce this in a smaller program, only in my actual model. _eou_",0
+", question: we run into an error _eou_",0
+"but this throws an error 'outside the jvm', very comparable to this issue: _issue_ is this known/fixed? _eou_",0
+however i am getting an exception: _code_. _eou_,0
+and i noticed a serious degradation both of performance and learning rate. _eou_,0
+i consistently see a huge performance impact (2-3 times slower with beta5) and a slower learning (for the same number of epochs). _eou_,0
+I am getting a runtimeexception error _code_. _eou_,0
+I am using this model with python and it gives me results. _eou_,0
+"the problem is that when i use the sharedtrainingmaster, no information is sent to the ui. _eou_",0
+"however, it works with the parameteraveragingmaster implementation. _eou_",0
+i precise that i do not have this problem when i run spark in standalone mode. _eou_,0
+only when i am in cluster/yarn mode. _eou_,0
+"in particular, my fit loop will randomly get stuck and make no progress. _eou_",0
+a thread dump shows that the threads seem to be stuck in this method: _code_ and _code_. _eou_,0
+"I am using it with quarkus, but no luck at the moment _eou_",0
+"it works fine in java mode, but compiling it to native I am stuck with errors like this one: _code_.but I am puzzled from the error, because I am running on linx-x86_64 (fedora). _eou_",0
+"and other similar errors for solaris, android and so on... _eou_",0
+"i just noticed that , on my computer, results given by a keras imported model are different in run or debug mode. _eou_",0
+"I am getting different probabilities ([_version_, _version_] vs [_version_, _version_]). _eou_",0
+"when using deeplearning4j-examples, maven can not find artifact _code_ in central repository. _eou_",0
+", guys after update to _version_-beta5 i have this error: _code_. _eou_",0
+most interesting that i have libsystem.b.dylib in /usr/lib/libsystem.b.dylib _eou_,0
+i updated to deeplearning4j-ui__version_:_version_-beta5 but all the same have this error _eou_,0
+"alex, just a remark about u-net zoo implementation, in the original paper (_url_) the last convolutional layer is 1 by 1 convltuion but in the zoo (_url_) implementation is convolution of 3 by 3. _eou_",0
+I am noticing I am get different training results with same seed value. _eou_,0
+I am getting a variance in f1 scores when i train/test with the same data. _eou_,0
+"i just ran a test with the cpu, I am seeing the cpu results are different than the gpu. _eou_",0
+the cpu results are all the same (as expected) but the gpu results have the variance. _eou_,0
+"however, i just tried training with one thread and I am still seeing the same issue. _eou_",0
+everything is correct in beta3 on both gpu and cpu but in beta4 the results are different on gpu. _eou_,0
+okay its working correctly in the _version_-snapshot. _eou_,0
+the error is _code_. _eou_,0
+"after around docker-desktop _version_ (windows) or so, when i try to bring down a stack (with ""docker-compose down"") of 12 services started up with docker-compose. _eou_",1
+I am looking for pointers on how best to troubleshoot build cache invalidation. _eou_,1
+i am trying to mount a network drive on windows container running on windows server 2016. windows container image is of server core. _eou_,1
+i am trying to run postgres in windows 10 base os. _eou_,1
+"its a java rest api from a web interface, the logic is to just create container and join them to networks _eou_",1
+"i need some help, does anyone know how to make node_modules inside docker node 11-alpine image be owned by the user node? _eou_",1
+i am running into an issue building an image. _eou_,1
+"hi , i have problem in lauching docker conatiner from jenkins  _eou_",1
+i am trying to connect my client to the endpoint docker-compose. _eou_,1
+i can setup a reverse proxy with nginx to bundle the routing together but i want to have a simple connection working first _eou_,1
+i am trying to contact the docker daemon via its api + a unix socket. _eou_,1
+i am trying to deploy a model in a spark-cluster through spark-submit and am running into an error i believe is related to my build.sbt and dependencies management. _eou_,1
+is there any way i can speed it up? _eou_,1
+and i  try to join them using swarm. _eou_,1
+how to make win10 as manager and ubuntu as worked using docker swarm? _eou_,1
+i am currently having issues in setting up a redis sentinel using docker-compose here _url_. _eou_,1
+I am running the last testflight build. _eou_,2
+I am running gitter in chrome. _eou_,2
+this is on firefox _version_ on fedora 30. _eou_,2
+"this is how i trigger it: make it work correctly, then change the screen size (i move my window from a screen to another) and the problem shows up. _eou_",2
+I am using the desktop client on ubuntu _version_ _eou_,2
+this is continues for several days and i am facing with this behavior in chrome version _version_ (official build) (64-bit) for win. _eou_,2
+im running a remote server of ubuntu _version_ and i’m testing some services using docker-compose. _eou_,2
+"docker-compose version _version_, build eefe0d31. _eou_",2
+"yes, i am mounting /var/run/docker.sock for the dind build. _eou_",2
+i am also using _code_ with _code_ and _code_. _eou_,2
+"so, i had to hard reset my mac today, so i updated docker when it rebooted. _eou_",2
+i installed a docker update 1-2 days ago. _eou_,2
+i am using docker version _version_ _eou_,2
+java version - _version_ docker version - _version_ _eou_,2
+i am using ubuntu _version_ lts and docker-compose _version_ _eou_,2
+my dockerfile: _code_. _eou_,2
+i am using jenkins version _version_ and ssh slaves pluin _version_ _eou_,2
+compose part: _code_ dockerfile: _code_. _eou_,2
+i use windows 10 pro 64bits. _eou_,2
+ok let me share the docker-compose file _code_ _eou_,2
+any hint to understand the problem ? _eou_,3
+which repository can i find this? _eou_,3
+there are only release versions of datavec-spark__version_ in central repository. _eou_,3
+_url_ _eou_,3
+done  _issue_ _eou_,3
+"oh, sorry i see i should use deeplearning4j-ui__version_:_version_-beta5 not deeplearning4j-ui__version_ thanks. _eou_",3
+i will try and let you know :) _eou_,3
+i opened an issue _issue_. _eou_,3
+does the training config respect the seed value? _eou_,3
+each thread trains a different net. _eou_,3
+i have a messaging system that dispatches train requests to multiple threads. _eou_,3
+ok let me work on that. _eou_,3
+thank you for your support. _eou_,3
+i just tried it in beta3. _eou_,3
+should i upgrade the cuda to _version_? _eou_,3
+any way to get a stable version of this we can use for development? _eou_,3
+i am new to ml and dl4j. _eou_,3
+i guess this is due to iterationorder is not getting updated. _eou_,3
+how can i fix this? _eou_,3
+"i suspect this would be the cause of this problem, since osgi have an issue with split-packages. _eou_",3
+would anybody know how to help me on this problem? _eou_,3
+"since it is a plug-in project (and not a maven project), i use reficio to generate the right dependencies for the project. _eou_",3
+"i mean ""p2-maven-plugin"" instead of ""reficio"", sorry _eou_",3
+i may have not allotted enough memory for the operation. _eou_,3
+but i guess that is not the root cause here. _eou_,3
+any idea whats the root cause here? _eou_,3
+this is the only similar reference found on web with this error: _issue_ _eou_,3
+how do i know if i have nd4j backend on my classpath? _eou_,3
+i have open a issue at dl4j _issue_. _eou_,3
+should we consider recompiling dl4j from scratch on out platform ? _eou_,3
+libraries found in artifacts are compiled for linux-ppc64le. _eou_,3
+what compiler is used ? _eou_,3
+ok _issue_ _eou_,3
+i got some trouble with dl4j. _eou_,3
+it is about compiling with javafx. _eou_,3
+i do like this. _eou_,3
+i will upload it on my github and then you can try to run it and see what is happening? _eou_,3
+does beta4 expect to be able to run under java _version_? _eou_,3
+logged as an issue _issue_ _eou_,3
+"i saw jumpy which i hope and i save from and load with nd4j, but is there a documented procedure for that? _eou_",3
+"and just so i can be more independent, is there a readthedocs kind of site where i could normally get that info? _eou_",3
+please tell me if this is worth opening an issue _eou_,3
+I am trying to solve my training issue with zoo unet. _eou_,3
+"having nan score , i decided to change my batch datatype to double. _eou_",3
+i looks like using this leads to a cuda problem. _eou_,3
+i do not understand why..  _eou_,3
+i would appreciate having examples of training to improve my knowledge of dl4j. _eou_,3
+do you have a working example of training unet with images from isbi challenge ? _eou_,3
+"searching the dl4j gitter, it seems that other people already got in trouble with this. _eou_",3
+has this been fixed in a snapshot maybe? _eou_,3
+"sure thing, was just about to do that! _eou_",3
+I will post a quick dirty fix as well :) _eou_,3
+all yours _issue_ _eou_,3
+"can that just be added to mmul's tensorflownames, or is there an incompatibility there? _eou_",3
+i do not see any differences in the tensorflow public apis for batchmatmul vs. batchmatmulv2 _eou_,3
+"I have tried both a ""plain jar deploy"" (a zip file with my play application, coming out of sbt dist), and in play dev mode, ""sbt run"". _eou_",3
+added the relevant /lib directory contents to the gist. _eou_,3
+logged: _issue_ _eou_,3
+"i wrote my own datasetiterator (with _code_), which is a wrapper for an underlying iterator, but it is the same used for the training dataset and the validation dataset. _eou_",3
+"(in case there is, just point me to the class!). _eou_",3
+"found it, I will extend basetraininglistener _eou_",3
+"I will see if i can give you something reproducible, the code I am working on is proprietary and i cannot share it, I will try my best _eou_",3
+has glove been unsupported now? _eou_,3
+i’m happy to hear that. _eou_,3
+waiting for it fixed. _eou_,3
+i do not know if this is a good place to make this question but here it goes. _eou_,3
+how this is happening if is the method itself that does grab the matrixes? _eou_,3
+and I would thought I would ask for help. _eou_,3
+all the issues/previous gitter post i found were about version mismatch. _eou_,3
+i have managed to go through some layers but one of them is giving me trouble. _eou_,3
+what does this mean and what can i do about it? _eou_,3
+thank you for help. _eou_,3
+i continue my question re. _eou_,3
+is javacpp current bytes on a per-thread basis? _eou_,3
+"(using _code_, trying to see how high i can go) how much memory is used by each worker? _eou_",3
+"reading the crash report, it looks like it should be something like network: _version_gb, activations: _version_gb, so <3gb total? _eou_",3
+have not configured workspaces as t are on by default in _version_-beta4? _eou_,3
+"see _issue_ for the exception i was getting - yours is different, but similar-ish _eou_",3
+i tried several days but cannot get it work. _eou_,3
+thanks for any response. _eou_,3
+i am on my way to office and will post the exception later. _eou_,3
+i have posted a gist for this issue. _eou_,3
+it is grateful for any suggestion for us to get rl4j work on our machine. _eou_,3
+"i found similar issue, _issue_, however it is not clear which way should i follow to resolve the problem _eou_",3
+i suspect i need to add some more dependencies where it is explicit that the nd4j backend is only cpu. _eou_,3
+i am wondering if you have a working build.sbt at hand with dependencies versions for this spark+dl4j+nd4j+scala situation i am. _eou_,3
+"i guess there is some problem in overloading resolution and contextual inference, but cannot debugging further deeper. _euo_",3
+probably this is a related issue to _issue_ _euo_,3
+anyone got an example of a library that attaches an instance to window? _euo_,3
+"hmm, says x is not a module _euo_",3

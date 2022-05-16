@@ -1,0 +1,216 @@
+sentence,label
+it does work when i set the encapsulation to shadowdom (but then the icon font does not load). _eou_,0
+why does encapsulating a reactive form adjustment in a _code_ resolve the _code_ problem mentioned here _issue_? _eou_,0
+"that triggers the expression changed error, unless of course it is wrapped in _code_. _eou_",0
+"now facing issue with ssr, it is giving error _code_. _eou_",0
+this error is from third party library. _eou_,0
+"according to update.angular.io, _code_ is supposed to migrate my tsconfig.json to a tsconfig.base.json, but that did not happen.why is that? _eou_",0
+"when the library is in the same project ie there is an src/app directory and a projects/my_library, app_initializer factory function runs. _eou_",0
+"if i then build the library and use npm link on the dist directory, and consume that again using npm link in a completely different angular workspace then the app_initializer factory function will not run. _eou_",0
+everything is working fine even when i create a build for android. _eou_,0
+"but when created a build for ios, build is successful and app runs on the emulator but ng2-cookies does not work in ios. _eou_",0
+"the set cookie method executes without any error, but get cookie method of the library returns an empty object. _eou_",0
+"just to follow-up on that unable to communicate with gitter message that i mentioned the other day, it only happens in this channel I have noticed. _eou_",0
+_url_ I am seeing a lot of this lately. _eou_,0
+seems like it might be this:_code_. _eou_,0
+"I am on a very stable connection, and as i said, this happens on two different machines at two different locations that have different isps. _eou_",0
+"in chromium, gitter does not scroll down to last message automatically. _eou_",0
+i have to press page-down button to see the latest one. _eou_,0
+"though it happens sometimes, not consistently. _eou_",0
+i do not appear to be getting notifications for pms on my iphone despite my notification settings being set to all. _eou_,0
+"oddly enough i was getting vibrations & sounds that i did not know where t were coming from cause i did not get any banners, but from the looks of it it was from gitter. _eou_",0
+as in it sent my phone sounds and badges but not banners. _eou_,0
+"try one more, i was in the app and did not hear anything (might be worth a separate issue, in-app notifications. _eou_",0
+"I am actually seeing a different issue at this very moment, I am not seeing the messages I have sent just now _eou_",0
+ye still missing them unfortunately. _eou_,0
+i am not seeing anything from recent months. _eou_,0
+for example this search _code_ returns posts from may 6th. _eou_,0
+"when i click on hide chat, nothing happens, and t are still in my sidebar on the left. _eou_",0
+"nevermind, it just took a couple minutes to kick in for some reason. _eou_",0
+seems to have worked though _eou_,0
+I have started seeing 502 errors from ws.gitter.im/faye about an hour ago in my app _eou_,0
+actually looks like the 502 started on november 21st already. _eou_,0
+so something else happened today that impacts my gitter streaming api connection _eou_,0
+i saw it in a graph in our logging but i must've done something wrong since it shows them going further back now. _eou_,0
+"and in fact t look expected since each of them has a request duration of exactly 120seconds, which i think is part of the streaming api. _eou_",0
+when i click a notification it updates the url but the page does not update _eou_,0
+gitter throws _code_. _eou_,0
+"after this, it throws itself into a loading loop and will not load anymore. _eou_",0
+removing cookies related to gitter.im clears the problem. _eou_,0
+"only add-on is ublock (to be specific, tested on two instances of firefox, one with only ublock and one with quite a few more extensions) _eou_",0
+i have a problem where the last unread message is never marked as read in a chatroom after i enabled threaded conversations. _eou_,0
+"if i reply, my notification goes away, but all my chat partners get one instead until t write something. _eou_",0
+"i tried turning off threaded conversations, but the notifications are still there! _eou_",0
+"for the meantime, i turned off threads, and then turned notifications for the affected channels off and on again, which removed the problem (but also threads) for now. _eou_",0
+"on chrome (latest) -> create button on the home page, signin via github (i have an existing gitter account linked) -> the steps to create + invite people, but clicking the final create, i end up with a _code_ issue. _eou_",0
+but i could not because the gitter lack of btn to do so. _eou_,0
+"but every time i launch it, it asks for permission to access my account, and when i click ""allow"", i get a 404 error. _eou_",0
+"I am able to use the web gitter client, and the desktop macos client. _eou_",0
+the 404 is for a url that start _url_. _eou_,0
+"cannot scroll down to see the full msg(it's not always, and when i change from one chat to another it gets fixed). _eou_",0
+"like i said changing from one chatroom to another fixes the problem, refreshing the window does not ok _eou_",0
+i just upgraded to ios 13 and the gitter app scrolling is not behaving correctly. _eou_,0
+briefly it doesn’t scroll to the bottom so i can’t see newest posts. _eou_,0
+it seems to just jump to random point in history. _eou_,0
+it’s a bit better in safari but gitter app isn’t usable at the moment. _eou_,0
+"when manually scrolling down to the end, it just jumps back. _eou_",0
+my avatar did not update. _eou_,0
+i am signed in with my gitlab and changed the avatar to a pic a while ago and it did not update yet. _eou_,0
+i am finding that the windows one does not open on the last read message whereas macos does e.g.  i am a member of _url_ and on windows it always starts on 13th july. _eou_,0
+private tab was ok (but of course i was not logged in). _eou_,0
+so i tried logging out and back in again in a 'normal' tab and that seems to have fixed it. _eou_,0
+odd because when i deleted all cookies i also had to log in again but that did not fix it. _eou_,0
+if i close the main window there does not appear to be a way to restore it. _eou_,0
+the notification area icon has sign out and exit options only. _eou_,0
+if i click the launcher again nothing appears to happen. _eou_,0
+i cannot add integrations today into any rooms. _eou_,0
+"when i try, i get a pop up message ""gitter. _eou_",0
+i tried in both chrome and firefox but no luck. _eou_,0
+the issue is : when i switched to the room - comments frame randomly and fast scrolls up and down for a while (1 -2 sec) then stops. _eou_,0
+I have tried to clear cache for gitter but this did not helps. _eou_,0
+here is an image _url_ this happens on every room switch. _eou_,0
+"sometimes pretty fast, possible with only 3 steps. _eou_",0
+sometimes too long - with 5 or even more scroll steps. _eou_,0
+"and getting “validation failed” but i don’t understand what’s failing or why, or what i can do about it. _eou_",0
+_url_ looks like maybe the issue was i had had a space in the room name. _eou_,0
+i reloaded the page and tried again and was able to create the room. _eou_,0
+"when i ssh into the box and issue a stop or background command using ‘ctrl-c’ or ‘ctrl-z’, the remote process is not responding. _eou_",0
+after running docker-compose up - ctrl-z just shows: ^z^z^z^z^z^z. _eou_,0
+the services themselves are running correctly. _eou_,0
+"but I am getting some errors, like: _code_. _eou_",0
+"some of the containers stop, but most do not (e.g. _eou_",0
+out of 12 services only 3 are stopped) . _eou_,0
+docker-desktop seems to be hanging and the only thing i can do is restart it. _eou_,0
+this used to work fine prior to v2. _eou_,0
+"i have an odd situation where /tmp in my container usually has 77 perms, but sometimes gets 755 perms, which causes springboot to fail. _eou_",0
+.i have an issue: I am receiving port is already allocated _eou_,0
+this issue persists after i do docker-compose down. _eou_,0
+and it is not happening every time. _eou_,0
+also it does not reproduce constantly. _eou_,0
+disable that still having the error. _eou_,0
+"I have been struggling with cache invalidation - specifically, when running a docker-in-docker docker build, it never seems to use the build cache. _eou_",0
+I am having a problem running a github action on a lerna monorepo that has 2 angular projects inside it. _eou_,1
+has anyone implemented pwa service worker and prerender universal? _eou_,1
+i am trying to exclude one npm package from being minified by an angular cli build. _eou_,1
+is it possible to have just one package ignored by the minifcation process? _eou_,1
+"but, i want it to work in both the ways...customcomponent and customelement _eou_",1
+"I am trying to use angular material mat-badge with angular elements, and i am having a hard time to get the component to get the badge styles applied. _eou_",1
+an interesting issue i am facing with app_initializer token and angular libraries when the library must be able to make use of app_initializer. _eou_,1
+hi...i am building an ionic capacitor - angular project. _eou_,1
+how do you leave a private chat in gitter.im ? _eou_,1
+"I have been hitting a nasty issue with gitter itself: trying to create a community from/for a github org I am part of, when i reach the step where i can chose members to invite. _eou_",1
+i had some problems creating a community. _eou_,1
+there is a bug in gui which i want to share a screenshot. _eou_,1
+I am trying to use the desktop gitter client on my linux workstation. _eou_,1
+i’m trying to create a room.  _eou_,1
+why is not docker-compose responding to sig* signals to stop or background the process? _eou_,1
+I am trying to install google chrome on my image to run selenium tests in headless mode. _eou_,1
+i migrated my angular to latest version 11 _eou_,2
+"created a stackblitz example for this, not sure how to run terminal commands in stackblitz, but it can be downloaded and the same can be reproduced. _eou_",2
+here is the stackblitz: _url_ _eou_,2
+", i just updated a project to angular 11. _eou_",2
+", I am using ng-recaptcha._version_ and I am using the v3service. _eou_",2
+nvm it seems that i have the _version_ _eou_,2
+the source code is in this repo: _url_. _eou_,2
+here is the code in the test: _code_. _eou_,2
+i am using firebase version 7 and angular 7.  _eou_,2
+"i am using angular 7 & ""/fire"": ""^_version_"", ""firebase"": ""^_version_"". _eou_",2
+i am using username and password and google login. _eou_,2
+i have declared a tagname as both component selectorname as well as ngelement. _eou_,2
+I am doing _code_ and _code_ on my component scss file. _eou_,2
+angular _version_ with material _version_ _eou_,2
+"I am passing a formgroup down to a child component from a parent, and then adding a control via _code_ to that formgroup in the ngoninit of the child component. _eou_",2
+i upgraded angular 8 to angular 9. _eou_,2
+i just used ng update to go from angular 9 to 10. _eou_,2
+in this i am using ng2-cookies to set and get cookies. _eou_,2
+"just using chromium, open gitter.im, that is all. _eou_",2
+think alt-tab/cmd tab as a simple but motivating use case. _eou_,3
+one for web app and one for mobile app though i suspect it’s the same root cause _issue_ _eou_,3
+i did sign in and out. _eou_,3
+I have been using gitter in firefox running under windows and under macos. _eou_,3
+any reason why that might be? _eou_,3
+I have tried deleting all gitter's cookies from windows firefox and logging in again. _eou_,3
+looked for issues but not sure what to search for... _eou_,3
+"anyway thanks very much, i will let you know if it stops working again. _eou_",3
+i did look through the issues in gihub but could not find anything relevant. _eou_,3
+turns out i had not joined any rooms so the menu did not display anything. _eou_,3
+minor issue i suppose. _eou_,3
+I am very new to gitter so bear with me. _eou_,3
+something's gone wrong. _eou_,3
+and that is it. _eou_,3
+hi  i am facing with strange scroll issue when switching between rooms. _eou_,3
+as i can see there is no any opened issue about this and i am going to think that this is something specific to my browser. _eou_,3
+"sorry, i don;t know how to explain correctly. _eou_",3
+step - i mean one up or down scroll. _eou_,3
+i think I have found. _eou_,3
+the mater was in browser tab. _eou_,3
+in new tab there is no such issue. _eou_,3
+"so, i think something accumulates during tab lifecycle. _eou_",3
+maybe some memory leaks or something similar - i'am not a big spec at this _eou_,3
+so maybe just a bug report that the ux here could use a little improvement. _eou_,3
+i also posted here: _url_ _eou_,3
+(in headless mode it works fine) _eou_,3
+has anyone experienced this and found a solution? _eou_,3
+"created an issue for the above at _issue_, in case someone else wants to add additional details. _eou_",3
+i do not have any other service running on that _eou_,3
+first i thought this is because i have concurrent builds in jenkins. _eou_,3
+"i found _issue_, which is still open. _eou_",3
+anyone have a pointer for me? _eou_,3
+has anyone experienced this? _eou_,3
+does anyone know a fix? _eou_,3
+i am not sure if that broke the time or if this issue exists for a longer time already. _eou_,3
+"ok, this is caused by hibernation on w10 and fixed by _url_. _eou_",3
+is someone able to reproduce this problem under linux? _eou_,3
+i filed a bug: _issue_. _eou_,3
+does anybody have any idea? _eou_,3
+how to solve this. _eou_,3
+"folks, i think i have found a bug in the build cache when building images and i do not know where to post an issue. _eou_",3
+"i have a java docker container c1, i am creating multiple docker containers inside my program logic and connecting them to docker networks, i also join container c1 to some of these docker networks. _eou_",3
+the entire program logic is running in a single thread. _eou_,3
+here is the logs of a newly instantiated container when it tries to join a external net _code_ _eou_,3
+"i have tested this atleast 20-30 times, this issue always occurs _eou_",3
+i am struggling understand why. _eou_,3
+"thanks, already checked it, but the suggestions did not worked _eou_",3
+"I am not sure why install is working, but build is not. _eou_",3
+can anyone please help me. _eou_,3
+", i am new in docker. _eou_",3
+"ok, let me try this _eou_",3
+"all, I am having a bit of a strange issue. _eou_",3
+yep _code_ _eou_,3
+okay let me dig out the build logs _eou_,3
+not sure what i am doing wrong _eou_,3
+my try wath with the embiddingsequencelayer and an lstm layer as output i used a rnnoutputlayer. _eou_,3
+or can i use another kind of outputlayer to get my model working ? _eou_,3
+no problem made an entry _eou_,3
+can somebody help me to resolve this problem? _eou_,3
+", I am a new learner with dl4j , encounter a performance issue when using parallelinference with multiple threading for cnn model. _eou_",3
+can someone help to check this? _eou_,3
+thanks for reply. _eou_,3
+"the model I am using was trained is based on _version_-beta3, if change to _version_-beta5, need retrain the model. _eou_",3
+"is there some guidance for setting up parameters in parallelinference, for example the batchlimit and number of workers, which number i should set it the machine used is a 2 cpus (12 cores)? _eou_",3
+"I have googled, there is no immediate solution. _eou_",3
+while there is similar questions asked and the seemed that the problem was caused by some dependency version conflicts. _eou_,3
+but i do not know where to go further. _eou_,3
+the class threw the exception is just a copy of lenetmnistexample. _eou_,3
+I am having some weird behavior with the nd4j rng. _eou_,3
+any idea what could be causing this? _eou_,3
+there is no asynchronous stuff happening either _eou_,3
+oh i see that it is the same issue as _issue_. _eou_,3
+the reason is method _code_. _eou_,3
+could you please help me to start use of dl4j? _eou_,3
+hi - are there any working exampless of how to use workspace? _eou_,3
+the doc is unclear. _eou_,3
+i thought beta5 was not available on mac os ? _eou_,3
+", I have been using dl4j for a while now, mostly with rnn/lstms. _eou_",3
+"i reproduced the problem by simply taking the basicrnnexample, and change the dl4j/nd4j version back and forth. _eou_",3
+is this a known issue? _eou_,3
+it looks like it is model dependent. _eou_,3
+"everyone, I am currently facing an issue using spark and dl4j. _eou_",3
+the server ui is in a different jvm as advised in the tutorial when running spark applications. _eou_,3
+"after some digging, it seems that my issue is the exact duplicate of this : _issue_ which was solved a year ago. _eou_",3
+does anyone have an hint on this ? _eou_,3
+I am having a problem with nd4jcuda. _eou_,3
+and idea what this could be caused by? _eou_,3
+is there maybe an issue with multi threaded nd4j array access and allocation? _eou_,3
+any hint would be more than welcome _eou_,3
+I am currently writing unit test for my code. _eou_,3
