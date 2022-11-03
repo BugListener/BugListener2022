@@ -27,6 +27,7 @@ Our project is public at: <https://github.com/BugListener/BugListener2022>
 - `model.py : BugListener model`
 - `FocalLoss.py : focal loss function`
 - `train.py : a file for model training`
+- `bert_classfier`: sentence classfier for OB、EB SR
 
 ## 2 Project Summary
 In community-based software development, developers frequently rely on live-chatting to discuss emergent bugs/errors they encounter in daily development tasks. However, it remains a challenging task to accurately record such knowledge due to the noisy nature of interleaved dialogs in live chat data. In this paper, we first formulate the task of identifying and synthesizing bug reports from community live chats, and propose a novel approach, named BugListener, to address the challenges. Specifically, BugListener automates three sub-tasks: 1) Disentangle live chat logs; 2) Identify the bug-report dialogs; 3) Synthesize the bug reports.
